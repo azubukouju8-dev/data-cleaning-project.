@@ -1,0 +1,13 @@
+product_id,name,category,price,in_stock,weight_g,color
+P001,Wireless Mouse,Electronics,25.99,True,1146.0,black
+P002,Mechanical Keyboard,Electronics,79.5,False,2253.0,grey
+P003,USB-C Cable 1m,Accessories,9.99,True,915.0,grey
+P004,Laptop Stand,Accessories,34.0,False,,black
+P005,Noise-Cancelling Headphones,Electronics,149.0,True,,grey
+P006,Notebook A5 (pack of 3),Stationery,12.75,False,1398.0,black
+P007,Desk Lamp LED,Home Office,42.0,True,,black
+P008,Webcam 1080p,Electronics,59.99,False,,white
+P009,Ergonomic Chair Cushion,Home Office,29.9,True,2384.0,
+P010,Ballpoint Pens (box of 12),Stationery,6.5,False,1205.0,black
+P011,External SSD 1TB,Electronics,99.0,True,,white
+P012,Phone Holder,Accessories,14.25,False,,

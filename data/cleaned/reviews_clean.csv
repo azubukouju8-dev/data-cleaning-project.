@@ -1,0 +1,181 @@
+review_date,order_id,rating,comment,order_found
+2026-08-15,ORD-1233,1,Waste of money,True
+2026-05-21,ORD-1140,3,It's okay.,True
+2026-04-22,ORD-1080,4,"Nice, but delivery took long.",True
+2026-06-04,ORD-1195,5,Great value for money.,True
+2026-08-31,ORD-1329,5,Great value for money.,True
+2026-08-03,ORD-1012,4,"Works well, slightly overpriced.",True
+2026-08-23,ORD-1179,5,"Excellent quality, arrived early!",True
+2026-07-19,ORD-1293,5,"Excellent quality, arrived early!",True
+2026-06-03,ORD-1313,3,It's okay.,True
+2026-03-27,ORD-1223,4,"Good product, packaging was a bit damaged.",True
+2026-02-12,ORD-1438,,Love it. works perfectly.,True
+2026-09-25,ORD-1377,5,Great value for money.,True
+2026-10-06,ORD-1103,1,Waste of money,True
+2026-10-21,ORD-1082,4,"Good product, packaging was a bit damaged.",True
+2026-10-23,ORD-1095,4,"Works well, slightly overpriced.",True
+2026-09-13,ORD-1057,3,"Average quality, does the job.",True
+2026-03-12,ORD-1007,5,"Excellent quality, arrived early!",True
+2026-08-08,ORD-1437,2,Colour was different from the picture.,True
+2026-07-15,ORD-1419,3,"Not bad, not great.",True
+2026-03-23,,4,"Good product, packaging was a bit damaged.",False
+2026-05-01,ORD-1334,4,"Works well, slightly overpriced.",True
+2026-04-19,ORD-1209,4,"Good product, packaging was a bit damaged.",True
+2026-09-05,ORD-1349,4,"Good product, packaging was a bit damaged.",True
+2026-09-04,ORD-1215,4,"Works well, slightly overpriced.",True
+2026-04-01,ORD-1022,2,Colour was different from the picture.,True
+2026-07-12,ORD-1131,5,Love it. Works perfectly.,True
+2026-02-23,ORD-1434,5,"Excellent quality, arrived early!",True
+2026-10-25,ORD-1087,4,"Works well, slightly overpriced.",True
+2026-03-25,ORD-1428,5,"Excellent quality, arrived early!",True
+2026-01-14,ORD-1196,5,Best purchase this year 🙌,True
+2026-09-19,ORD-1098,5,Great value for money.,True
+2026-09-01,ORD-1334,5,"Excellent quality, arrived early!",True
+2026-07-16,ORD-1401,5,Love it. Works perfectly.,True
+2026-06-16,ORD-1224,5,Best purchase this year 🙌,True
+2026-08-24,ORD-1370,4,"Nice, but delivery took long.",True
+2026-09-20,ORD-1220,5,Best purchase this year 🙌,True
+2026-11-02,ORD-1362,5,"Excellent quality, arrived early!",True
+2026-04-11,ORD-1161,1,Broken on arrival!!!,True
+2026-07-16,ORD-1221,5,Love it. Works perfectly.,True
+2026-01-20,ORD-1314,4,"Nice, but delivery took long.",True
+2026-07-02,,3,It's okay.,False
+2026-07-16,ORD-1193,3,"Average quality, does the job.",True
+2026-03-15,ORD-1315,5,"Excellent quality, arrived early!",True
+2026-07-13,,3,It's okay.,False
+2026-08-11,ORD-1320,3,"Average quality, does the job.",True
+2026-02-26,ORD-1206,3,"Not bad, not great.",True
+2026-06-10,ORD-1060,3,"Average quality, does the job.",True
+2026-07-21,,4,"Nice, but delivery took long.",False
+2026-08-29,ORD-1102,2,Colour was different from the picture.,True
+2026-01-24,ORD-1004,5,"Excellent quality, arrived early!",True
+2026-05-10,ORD-1156,3,It's okay.,True
+2026-09-25,ORD-1018,5,"Excellent quality, arrived early!",True
+2026-03-06,ORD-1191,4,"Good product, packaging was a bit damaged.",True
+2026-04-11,ORD-1240,3,"Average quality, does the job.",True
+2026-06-17,ORD-1219,1,Waste of money,True
+2026-01-12,ORD-1362,1,Waste of money,True
+2026-02-15,ORD-1210,2,Colour was different from the picture.,True
+2026-07-05,ORD-1283,5,Great value for money.,True
+2026-04-27,ORD-1153,5,Best purchase this year 🙌,True
+2026-06-17,ORD-1061,3,"Average quality, does the job.",True
+2026-06-26,ORD-1230,4,"Nice, but delivery took long.",True
+2026-02-16,ORD-1330,4,"Good product, packaging was a bit damaged.",True
+2026-07-24,ORD-1429,3,"Not bad, not great.",True
+2026-08-29,ORD-1265,4,"Good product, packaging was a bit damaged.",True
+2026-01-09,ORD-1293,1,Broken on arrival!!!,True
+2026-10-06,ORD-1144,4,"Works well, slightly overpriced.",True
+2026-08-13,ORD-1117,4,"Good product, packaging was a bit damaged.",True
+2026-02-24,ORD-1394,5,Best purchase this year 🙌,True
+2026-03-18,ORD-1087,4,"Works well, slightly overpriced.",True
+2026-03-12,ORD-1122,2,Colour was different from the picture.,True
+2026-04-03,ORD-1290,4,"Works well, slightly overpriced.",True
+2026-01-13,ORD-1394,2,Colour was different from the picture.,True
+2026-01-12,ORD-1360,1,Waste of money,True
+2026-10-06,ORD-1080,5,Love it. Works perfectly.,True
+2026-08-27,ORD-1001,3,It's okay.,True
+2026-02-25,ORD-1399,4,"Good product, packaging was a bit damaged.",True
+2026-10-30,ORD-1345,4,"Good product, packaging was a bit damaged.",True
+2026-09-15,ORD-1242,4,"Works well, slightly overpriced.",True
+2026-04-09,ORD-1076,4,"Good product, packaging was a bit damaged.",True
+2026-04-09,ORD-1361,3,"Not bad, not great.",True
+2026-07-27,ORD-1043,5,Great value for money.,True
+2026-06-10,ORD-1255,1,Broken on arrival!!!,True
+2026-03-18,,4,"Nice, but delivery took long.",False
+2026-04-18,ORD-1037,4,"Good product, packaging was a bit damaged.",True
+2026-07-24,ORD-1355,3,"Not bad, not great.",True
+2026-02-12,ORD-1377,4,"Nice, but delivery took long.",True
+2026-10-04,ORD-1210,5,Best purchase this year 🙌,True
+2026-08-29,ORD-1420,4,"Nice, but delivery took long.",True
+2026-09-25,ORD-1027,4,"Works well, slightly overpriced.",True
+2026-10-18,ORD-1105,5,Great value for money.,True
+2026-03-24,ORD-1354,4,"Nice, but delivery took long.",True
+2026-01-15,ORD-1317,2,Colour was different from the picture.,True
+2026-10-28,ORD-1392,2,Stopped working after two weeks.,True
+2026-04-19,ORD-1232,3,It's okay.,True
+2026-04-22,ORD-1069,2,Stopped working after two weeks.,True
+2026-07-08,ORD-1110,1,Broken on arrival!!!,True
+2026-02-26,ORD-1308,4,"Nice, but delivery took long.",True
+2026-05-26,ORD-1255,5,"Excellent quality, arrived early!",True
+2026-06-05,ORD-1031,3,"Not bad, not great.",True
+2026-01-21,ORD-1377,3,It's okay.,True
+2026-10-09,ORD-1191,4,"Works well, slightly overpriced.",True
+2026-08-19,ORD-1254,2,Colour was different from the picture.,True
+2026-10-25,ORD-1188,4,"Nice, but delivery took long.",True
+2026-06-09,ORD-1445,3,"Average quality, does the job.",True
+2026-07-22,ORD-1440,5,"Excellent quality, arrived early!",True
+2026-10-28,ORD-1272,5,"Excellent quality, arrived early!",True
+2026-09-12,ORD-1344,5,Best purchase this year 🙌,True
+2026-03-03,ORD-1001,1,Terrible. Never arrived on time and support ignored me.,True
+2026-04-29,ORD-1177,5,Love it. Works perfectly.,True
+2026-10-04,ORD-1292,1,Waste of money,True
+2026-09-30,ORD-1021,5,Best purchase this year 🙌,True
+2026-02-09,ORD-1260,4,"Good product, packaging was a bit damaged.",True
+2026-07-30,ORD-1354,5,Best purchase this year 🙌,True
+2026-08-18,ORD-1032,4,"Nice, but delivery took long.",True
+2026-08-12,ORD-1198,4,"Good product, packaging was a bit damaged.",True
+2026-08-15,ORD-1440,3,"Not bad, not great.",True
+2026-02-26,ORD-1067,5,Best purchase this year 🙌,True
+2026-07-20,ORD-1146,4,"Good product, packaging was a bit damaged.",True
+2026-01-26,ORD-1325,3,It's okay.,True
+2026-04-08,ORD-1097,5,Best purchase this year 🙌,True
+2026-08-28,ORD-1377,5,Best purchase this year 🙌,True
+2026-10-08,ORD-1249,5,"Excellent quality, arrived early!",True
+2026-09-11,ORD-1373,2,Colour was different from the picture.,True
+2026-04-07,ORD-1291,4,"Nice, but delivery took long.",True
+2026-06-05,ORD-1380,4,"Good product, packaging was a bit damaged.",True
+2026-05-01,ORD-1140,5,"Excellent quality, arrived early!",True
+2026-09-28,ORD-1039,4,"Nice, but delivery took long.",True
+2026-07-07,ORD-1324,5,Love it. works perfectly.,True
+2026-05-02,ORD-1236,2,Stopped working after two weeks.,True
+2026-04-03,ORD-1321,5,Love it. works perfectly.,True
+2026-09-14,ORD-1226,3,"Average quality, does the job.",True
+2026-03-20,ORD-1412,1,Terrible. Never arrived on time and support ignored me.,True
+2026-03-29,ORD-1189,4,"Good product, packaging was a bit damaged.",True
+2026-07-23,ORD-1058,3,"Average quality, does the job.",True
+2026-07-04,ORD-1021,5,"Excellent quality, arrived early!",True
+2026-06-22,ORD-1301,5,"Excellent quality, arrived early!",True
+2026-03-26,ORD-1411,2,Colour was different from the picture.,True
+2026-03-02,ORD-1407,1,Waste of money,True
+2026-08-23,ORD-1027,4,"Good product, packaging was a bit damaged.",True
+2026-02-25,ORD-1380,4,"Nice, but delivery took long.",True
+2026-06-04,ORD-1113,3,"Average quality, does the job.",True
+2026-02-03,ORD-1348,5,Love it. Works perfectly.,True
+2026-10-08,ORD-1375,4,"Nice, but delivery took long.",True
+2026-06-18,ORD-1233,5,Great value for money.,True
+2026-06-24,ORD-1387,1,Broken on arrival!!!,True
+2026-06-13,ORD-1009,4,"Works well, slightly overpriced.",True
+2026-07-27,ORD-1356,4,"Good product, packaging was a bit damaged.",True
+2026-07-28,ORD-1008,5,Love it. Works perfectly.,True
+2026-03-04,ORD-1307,4,"Nice, but delivery took long.",True
+2026-04-12,ORD-1269,3,"Average quality, does the job.",True
+2026-03-25,ORD-1289,4,"Nice, but delivery took long.",True
+2026-10-13,ORD-1037,5,"Excellent quality, arrived early!",True
+2026-01-07,ORD-1440,5,"Excellent quality, arrived early!",True
+2026-05-07,ORD-1368,4,"Good product, packaging was a bit damaged.",True
+2026-03-29,ORD-1124,1,Broken on arrival!!!,True
+2026-08-01,ORD-1088,5,Great value for money.,True
+2026-10-24,ORD-1385,3,"Average quality, does the job.",True
+2026-08-05,ORD-1415,5,Great value for money.,True
+2026-10-21,ORD-1253,1,Broken on arrival!!!,True
+2026-01-24,ORD-1218,4,"Good product, packaging was a bit damaged.",True
+2026-06-16,ORD-1195,5,"Excellent quality, arrived early!",True
+2026-10-15,ORD-1114,5,Love it. Works perfectly.,True
+2026-11-02,ORD-1270,3,"Average quality, does the job.",True
+2026-02-10,ORD-1104,2,Stopped working after two weeks.,True
+2026-09-16,ORD-1398,1,Broken on arrival!!!,True
+2026-06-11,ORD-1283,5,Best purchase this year 🙌,True
+2026-07-19,ORD-1280,1,Waste of money,True
+2026-04-14,ORD-1203,5,Best purchase this year 🙌,True
+2026-07-16,ORD-1250,,Best purchase this year 🙌,True
+2026-06-24,ORD-1268,4,"Nice, but delivery took long.",True
+2026-07-23,ORD-1352,3,"Average quality, does the job.",True
+2026-01-09,ORD-1050,5,"Excellent quality, arrived early!",True
+2026-06-06,ORD-1130,4,"Works well, slightly overpriced.",True
+2026-02-06,ORD-1266,5,Great value for money.,True
+2026-02-08,ORD-1171,3,"Average quality, does the job.",True
+2026-01-27,ORD-1001,4,"Works well, slightly overpriced.",True
+2026-03-18,ORD-1081,1,Terrible. Never arrived on time and support ignored me.,True
+2026-07-25,ORD-1385,5,Best purchase this year 🙌,True
+2026-03-28,ORD-1336,4,"Works well, slightly overpriced.",True
+2026-01-12,ORD-1296,4,"Works well, slightly overpriced.",True

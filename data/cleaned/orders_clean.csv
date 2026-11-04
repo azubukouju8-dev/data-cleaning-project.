@@ -1,0 +1,451 @@
+order_id,order_date,customer_id,customer_name,email,country,product_id,quantity,unit_price,total,total_reported,payment_method,status,quantity_flag,total_corrected,unknown_product
+ORD-1001,2026-10-04,C018,Ngozi Nwosu,ngozi.nwosu18@example.com,Nigeria,P011,1,99.0,99.0,99.0,Mobile Wallet,Shipped,,False,False
+ORD-1002,2026-08-18,C016,Zara Tanaka,zara.tanaka16@example.com,United Kingdom,P004,1,34.0,34.0,34.0,Bank Transfer,Delivered,,False,False
+ORD-1003,2026-08-21,C025,Emeka Okafor,emeka.okafor25@example.com,South Africa,P005,4,149.0,596.0,685.4,Bank Transfer,Delivered,,True,False
+ORD-1004,2026-10-19,C056,Ahmed Garcia,ahmed.garcia56@example.com,Nigeria,P004,1,34.0,34.0,34.0,Card,Delivered,,False,False
+ORD-1005,2026-09-17,C007,Emeka Okafor,,Kenya,P002,2,79.5,159.0,159.0,Bank Transfer,Delivered,,False,False
+ORD-1006,2026-05-20,C007,Emeka Okafor,,Kenya,P012,2,14.25,28.5,28.5,Bank Transfer,Delivered,,False,False
+ORD-1007,2026-03-18,C001,Ahmed Adeyemi,ahmed.adeyemi1@example.com,Ghana,P002,1,79.5,79.5,7.95,Bank Transfer,Delivered,,True,False
+ORD-1008,2026-04-01,C060,Tunde Rossi,tunde.rossi60@example.com,Ghana,P004,3,34.0,102.0,102.0,Cash on Delivery,Shipped,,False,False
+ORD-1009,2026-06-18,C002,Ngozi Khan,ngozi.khan2@example.com,Ghana,P011,1,99.0,99.0,99.0,Cash on Delivery,Delivered,,False,False
+ORD-1010,2026-01-23,C025,Emeka Okafor,emeka.okafor25@example.com,South Africa,P010,1,6.5,6.5,6.5,Cash on Delivery,Delivered,,False,False
+ORD-1011,2026-06-04,C048,David Rossi,david.rossi48@example.com,South Africa,P003,2,9.99,19.98,19.98,Cash on Delivery,Delivered,,False,False
+ORD-1012,2026-04-26,C049,Mateo Garcia,mateo.garcia49@example.com,South Africa,P004,2,34.0,68.0,68.0,Bank Transfer,Delivered,,False,False
+ORD-1013,2026-09-23,C015,Mateo Tanaka,mateo.tanaka15@example.com,United Kingdom,P003,3,9.99,29.97,29.97,Mobile Wallet,Shipped,,False,False
+ORD-1014,2026-05-22,C029,Tunde Mensah,tunde.mensah29@example.com,United Kingdom,P005,3,149.0,447.0,447.0,Cash on Delivery,Delivered,,False,False
+ORD-1015,2026-10-27,C054,Tunde Brown,tunde.brown54@example.com,Nigeria,P007,1,42.0,42.0,42.0,Mobile Wallet,Delivered,,False,False
+ORD-1016,2026-03-26,C043,Liam Smith,liam.smith43@example.com,United States,P011,3,99.0,297.0,297.0,Card,Delivered,,False,False
+ORD-1017,2026-10-04,C054,Tunde Brown,tunde.brown54@example.com,Nigeria,P002,1,79.5,79.5,79.5,Card,Delivered,,False,False
+ORD-1018,2026-03-25,C048,David Rossi,david.rossi48@example.com,South Africa,P012,1,14.25,14.25,14.25,Cash on Delivery,Delivered,,False,False
+ORD-1019,2026-06-24,C024,Ngozi Mensah,ngozi.mensah24@example.com,United States,P002,2,79.5,159.0,159.0,Card,Returned,,False,False
+ORD-1020,,C021,Yuki Adeyemi,yuki.adeyemi21@example.com,United Kingdom,P004,3,34.0,102.0,102.0,Mobile Wallet,Delivered,,False,False
+ORD-1021,2026-09-09,C049,Mateo Garcia,mateo.garcia49@example.com,South Africa,P004,2,34.0,68.0,68.0,Bank Transfer,Delivered,,False,False
+ORD-1022,2026-04-05,C048,David Rossi,david.rossi48@example.com,South Africa,P009,5,29.9,149.5,149.5,Cash on Delivery,Shipped,,False,False
+ORD-1023,2026-08-14,C037,Yuki Rossi,yuki.rossi37@example.com,Nigeria,P005,1,149.0,149.0,149.0,Mobile Wallet,Shipped,,False,False
+ORD-1024,,C050,Fatima Ibrahim,fatima.ibrahim50@example.com,South Africa,P009,1,29.9,29.9,29.9,Cash on Delivery,Delivered,,False,False
+ORD-1025,2026-08-21,C046,Chloe Mensah,chloe.mensah46@example.com,United States,P005,2,149.0,298.0,298.0,Bank Transfer,Delivered,,False,False
+ORD-1026,2026-08-13,C018,Ngozi Nwosu,ngozi.nwosu18@example.com,Nigeria,P009,2,29.9,59.8,59.8,Cash on Delivery,Delivered,,False,False
+ORD-1027,2026-09-09,C012,Liam Bello,liam.bello12@example.com,Kenya,P010,1,6.5,6.5,6.5,Cash on Delivery,Delivered,,False,False
+ORD-1028,2026-08-25,C001,Ahmed Adeyemi,,Ghana,P003,3,99.0,297.0,297.0,Mobile Wallet,Shipped,,False,False
+ORD-1029,2026-03-02,C054,Tunde Brown,tunde.brown54@example.com,Nigeria,P002,1,79.5,79.5,79.5,Cash on Delivery,Shipped,,False,False
+ORD-1030,2026-06-02,C053,Tunde Garcia,tunde.garcia53@example.com,Ghana,P001,1,25.99,25.99,25.99,Mobile Wallet,Delivered,,False,False
+ORD-1031,2026-03-19,C046,Chloe Mensah,chloe.mensah46@example.com,United States,P007,1,42.0,42.0,42.0,Cash on Delivery,Cancelled,,False,False
+ORD-1032,2026-07-14,C022,Ahmed Smith,ahmed.smith22@example.com,United Kingdom,P011,3,99.0,297.0,297.0,Card,Delivered,,False,False
+ORD-1033,,C024,Ngozi Mensah,ngozi.mensah24@example.com,United States,P007,1,42.0,42.0,42.0,Bank Transfer,Delivered,,False,False
+ORD-1034,,C029,Tunde Mensah,tunde.mensah29@example.com,,P006,5,12.75,63.75,63.75,Mobile Wallet,Delivered,,False,False
+ORD-1035,2026-05-27,C048,David Rossi,david.rossi48@example.com,South Africa,P008,3,59.99,179.97,179.97,Bank Transfer,Delivered,,False,False
+ORD-1036,2026-05-20,C035,Ahmed Garcia,ahmed.garcia35@example.com,Ghana,P005,2,12.75,25.5,25.5,Cash on Delivery,Shipped,,False,False
+ORD-1037,2026-05-15,C024,Ngozi Mensah,ngozi.mensah24@example.com,United States,P011,2,99.0,198.0,198.0,Card,Delivered,,False,False
+ORD-1038,2026-10-03,C032,Ngozi Bello,,United States,P002,1,79.5,79.5,79.5,Mobile Wallet,Cancelled,,False,False
+ORD-1039,2026-05-22,C042,Tunde Smith,tunde.smith42@example.com,South Africa,P006,1,12.75,12.75,12.75,Card,Delivered,,False,False
+ORD-1040,2026-03-16,C039,Amara Smith,amara.smith39@example.com,Kenya,P001,1,25.99,25.99,25.99,Card,Cancelled,,False,False
+ORD-1041,2026-01-23,C007,Emeka Okafor,emeka.okafor7@example.com,Kenya,P008,2,59.99,119.98,119.98,Cash on Delivery,Delivered,,False,False
+ORD-1042,2026-09-29,C036,Kwame Bello,kwame.bello36@example.com,United States,P012,1,14.25,14.25,14.25,Card,Delivered,,False,False
+ORD-1043,2026-02-19,C006,Kwame Okafor,kwame.okafor6@example.com,Ghana,P002,1,79.5,79.5,79.5,Card,Returned,,False,False
+ORD-1044,2026-02-25,C043,,,United States,P008,1,59.99,59.99,59.99,Cash on Delivery,Shipped,,False,False
+ORD-1045,2026-03-14,C037,Yuki Rossi,yuki.rossi37@example.com,,P011,1,99.0,99.0,99.0,Bank Transfer,Delivered,,False,False
+ORD-1046,,C029,Tunde Mensah,tunde.mensah29@example.com,United Kingdom,P007,1,42.0,42.0,42.0,Mobile Wallet,Delivered,,False,False
+ORD-1047,,C033,Zara Smith,zara.smith33@example.com,South Africa,P009,3,29.9,89.7,89.7,Mobile Wallet,Delivered,,False,False
+ORD-1048,2026-07-25,C028,Yuki Adeyemi,yuki.adeyemi28@example.com,Kenya,P002,1,79.5,79.5,79.5,Cash on Delivery,Delivered,,False,False
+ORD-1049,2026-09-10,C010,Kwame Garcia,kwame.garcia10@example.com,South Africa,P011,1,99.0,99.0,99.0,Cash on Delivery,Delivered,,False,False
+ORD-1050,2026-07-16,C006,Kwame Okafor,kwame.okafor6@example.com,Ghana,P010,2,6.5,13.0,13.0,Card,Cancelled,,False,False
+ORD-1051,2026-03-23,C029,Tunde Mensah,tunde.mensah29@example.com,United Kingdom,P008,2,59.99,119.98,119.98,Mobile Wallet,Delivered,,False,False
+ORD-1052,2026-07-20,C010,Kwame Garcia,kwame.garcia10@example.com,South Africa,P006,1,12.75,12.75,12.75,Cash on Delivery,Delivered,,False,False
+ORD-1053,2026-03-12,C050,Fatima Ibrahim,fatima.ibrahim50@example.com,South Africa,P008,1,59.99,59.99,59.99,Card,Delivered,,False,False
+ORD-1054,2026-04-30,C049,Mateo Garcia,mateo.garcia49@example.com,South Africa,P012,3,14.25,42.75,42.75,Bank Transfer,Delivered,,False,False
+ORD-1055,2026-03-05,C007,Emeka Okafor,,Kenya,P012,3,14.25,42.75,42.75,Mobile Wallet,Shipped,,False,False
+ORD-1056,2026-03-16,C046,Chloe Mensah,chloe.mensah46@example.com,United States,P011,1,99.0,99.0,99.0,Bank Transfer,Delivered,,False,False
+ORD-1057,2026-09-13,C030,Chloe Nwosu,chloe.nwosu30@example.com,Nigeria,P002,1,79.5,79.5,79.5,Bank Transfer,Delivered,,False,False
+ORD-1058,2026-07-11,C031,Mateo Khan,mateo.khan31@example.com,Kenya,P001,2,25.99,51.98,51.98,Cash on Delivery,Shipped,,False,False
+ORD-1059,2026-08-23,C009,David Tanaka,david.tanaka9@example.com,South Africa,P002,2,79.5,159.0,182.85,Card,Cancelled,,True,False
+ORD-1060,2026-07-17,C048,David Rossi,david.rossi48@example.com,South Africa,P008,4,59.99,239.96,239.96,Cash on Delivery,Shipped,,False,False
+ORD-1061,2026-06-30,C029,Tunde Mensah,tunde.mensah29@example.com,United Kingdom,P001,2,25.99,51.98,59.78,Card,Delivered,,True,False
+ORD-1062,2026-07-09,C010,Kwame Garcia,kwame.garcia10@example.com,South Africa,P011,1,99.0,99.0,99.0,Cash on Delivery,Delivered,,False,False
+ORD-1063,2026-02-07,C032,Ngozi Bello,ngozi.bello32@example.com,United States,P004,1,34.0,34.0,34.0,Card,Returned,,False,False
+ORD-1064,2026-09-10,C051,Grace Brown,grace.brown51@example.com,United Kingdom,P003,1,9.99,9.99,9.99,Mobile Wallet,Delivered,,False,False
+ORD-1065,2026-04-04,C009,David Tanaka,david.tanaka9@example.com,South Africa,P009,2,29.9,59.8,59.8,Card,Delivered,,False,False
+ORD-1066,2026-10-25,C006,Kwame Okafor,kwame.okafor6@example.com,Ghana,P009,2,29.9,59.8,59.8,Cash on Delivery,Shipped,,False,False
+ORD-1067,2026-08-21,C016,Zara Tanaka,zara.tanaka16@example.com,United Kingdom,P011,1,99.0,99.0,99.0,Mobile Wallet,Delivered,,False,False
+ORD-1068,2026-05-29,C016,Zara Tanaka,zara.tanaka16@example.com,United Kingdom,P003,1,9.99,9.99,9.99,Bank Transfer,Shipped,,False,False
+ORD-1069,2026-08-29,C004,Fatima Adeyemi,fatima.adeyemi4@example.com,South Africa,P001,1,25.99,25.99,29.89,Mobile Wallet,Cancelled,,True,False
+ORD-1070,2026-07-21,C008,Sofia Mensah,sofia.mensah8@example.com,Nigeria,P003,1,9.99,9.99,49.95,Cash on Delivery,Delivered,,True,False
+ORD-1071,2026-09-17,C054,Tunde Brown,tunde.brown54@example.com,Nigeria,P005,2,149.0,298.0,298.0,Cash on Delivery,Shipped,,False,False
+ORD-1072,2026-09-03,C015,Mateo Tanaka,mateo.tanaka15@example.com,United Kingdom,P012,1,14.25,14.25,14.25,Bank Transfer,Delivered,,False,False
+ORD-1073,2026-09-02,C036,Kwame Bello,kwame.bello36@example.com,United States,P006,5,12.75,63.75,63.75,Mobile Wallet,Delivered,,False,False
+ORD-1074,2026-03-04,C060,Tunde Rossi,tunde.rossi60@example.com,Ghana,P012,1,14.25,14.25,14.25,Cash on Delivery,Delivered,,False,False
+ORD-1075,2026-09-29,C016,Zara Tanaka,zara.tanaka16@example.com,United Kingdom,P004,1,34.0,34.0,34.0,Mobile Wallet,Shipped,,False,False
+ORD-1076,2026-04-29,C004,Fatima Adeyemi,fatima.adeyemi4@example.com,South Africa,P002,,79.5,,159.0,Bank Transfer,Cancelled,invalid (<=0 or >50),False,False
+ORD-1077,2026-09-10,C030,Chloe Nwosu,,Nigeria,P011,2,99.0,198.0,198.0,Mobile Wallet,Delivered,,False,False
+ORD-1078,2026-02-18,C033,Zara Smith,zara.smith33@example.com,South Africa,P006,1,12.75,12.75,12.75,Bank Transfer,Delivered,,False,False
+ORD-1079,2026-03-02,C060,Tunde Rossi,tunde.rossi60@example.com,Ghana,P012,3,14.25,42.75,42.75,Bank Transfer,Returned,,False,False
+ORD-1080,2026-07-05,C006,Kwame Okafor,kwame.okafor6@example.com,Ghana,P009,1,29.9,29.9,29.9,Bank Transfer,Delivered,,False,False
+ORD-1081,2026-01-02,C047,Emeka Tanaka,,United Kingdom,P001,1,25.99,25.99,25.99,Mobile Wallet,Shipped,,False,False
+ORD-1082,2026-10-04,C029,Tunde Mensah,tunde.mensah29@example.com,United Kingdom,P007,1,42.0,42.0,42.0,Bank Transfer,Delivered,,False,False
+ORD-1083,2026-08-03,C049,Mateo Garcia,,South Africa,P002,1,79.5,79.5,79.5,Bank Transfer,Delivered,,False,False
+ORD-1084,2026-06-14,C047,Emeka Tanaka,emeka.tanaka47@example.com,United Kingdom,P010,1,6.5,6.5,6.5,Mobile Wallet,Delivered,,False,False
+ORD-1085,2026-06-03,C031,Mateo Khan,mateo.khan31@example.com,Kenya,P004,3,34.0,102.0,102.0,Card,Delivered,,False,False
+ORD-1086,2026-04-07,C039,Amara Smith,amara.smith39@example.com,Kenya,P001,4,25.99,103.96,103.96,Bank Transfer,Delivered,,False,False
+ORD-1087,,C021,Yuki Adeyemi,,United Kingdom,P005,1,149.0,149.0,149.0,Mobile Wallet,Delivered,,False,False
+ORD-1088,2026-09-13,C025,Emeka Okafor,emeka.okafor25@example.com,South Africa,P010,3,6.5,19.5,19.5,Cash on Delivery,Returned,,False,False
+ORD-1089,,C005,Ngozi Garcia,ngozi.garcia5@example.com,South Africa,P011,1,99.0,99.0,99.0,,Delivered,,False,False
+ORD-1090,2026-08-09,C019,Yuki Okafor,yuki.okafor19@example.com,Nigeria,P001,2,25.99,51.98,51.98,Card,Delivered,,False,False
+ORD-1091,2026-02-17,C055,Ahmed Rossi,ahmed.rossi55@example.com,Ghana,P011,3,99.0,297.0,297.0,Card,Delivered,,False,False
+ORD-1092,2026-05-24,C018,Ngozi Nwosu,ngozi.nwosu18@example.com,Nigeria,P001,4,25.99,103.96,103.96,Bank Transfer,Delivered,,False,False
+ORD-1093,2026-09-14,C009,David Tanaka,david.tanaka9@example.com,South Africa,P012,2,14.25,28.5,28.5,Mobile Wallet,Shipped,,False,False
+ORD-1094,2026-06-01,C038,Ahmed Brown,ahmed.brown38@example.com,United Kingdom,P011,1,99.0,99.0,9.9,Cash on Delivery,Delivered,,True,False
+ORD-1095,2026-06-16,C006,Kwame Okafor,kwame.okafor6@example.com,Ghana,P006,2,12.75,25.5,25.5,Mobile Wallet,Shipped,,False,False
+ORD-1096,2026-05-07,C005,Ngozi Garcia,ngozi.garcia5@example.com,South Africa,P006,1,12.75,12.75,12.75,Mobile Wallet,Delivered,,False,False
+ORD-1097,,C013,Chloe Garcia,chloe.garcia13@example.com,South Africa,P008,1,59.99,59.99,59.99,Bank Transfer,Delivered,,False,False
+ORD-1098,2026-03-13,C053,Tunde Garcia,tunde.garcia53@example.com,Ghana,P007,2,42.0,84.0,84.0,Bank Transfer,Shipped,,False,False
+ORD-1099,2026-05-08,C059,Zara Okafor,zara.okafor59@example.com,Kenya,P002,1,79.5,79.5,79.5,Card,Returned,,False,False
+ORD-1100,2026-09-14,C030,Chloe Nwosu,chloe.nwosu30@example.com,Nigeria,P011,2,99.0,198.0,198.0,Card,Delivered,,False,False
+ORD-1101,2026-06-25,C052,Zara Rossi,zara.rossi52@example.com,United Kingdom,P012,1,14.25,14.25,14.25,Bank Transfer,Delivered,,False,False
+ORD-1102,2026-02-02,C046,Chloe Mensah,chloe.mensah46@example.com,United States,P004,1,34.0,34.0,34.0,Bank Transfer,Delivered,,False,False
+ORD-1103,2026-02-13,C052,Zara Rossi,zara.rossi52@example.com,United Kingdom,P005,4,149.0,596.0,596.0,Cash on Delivery,Delivered,,False,False
+ORD-1104,2026-07-03,C021,Yuki Adeyemi,,United Kingdom,P008,2,59.99,119.98,119.98,Mobile Wallet,Delivered,,False,False
+ORD-1105,2026-02-28,C036,Kwame Bello,kwame.bello36@example.com,United States,P009,1,29.9,29.9,29.9,Card,Delivered,,False,False
+ORD-1106,2026-06-29,C016,Zara Tanaka,zara.tanaka16@example.com,United Kingdom,P004,3,34.0,102.0,102.0,Bank Transfer,Shipped,,False,False
+ORD-1107,2026-05-22,C009,David Tanaka,david.tanaka9@example.com,South Africa,P007,4,42.0,168.0,168.0,Bank Transfer,Shipped,,False,False
+ORD-1108,2026-09-07,C060,Tunde Rossi,tunde.rossi60@example.com,Ghana,P006,1,12.75,12.75,12.75,Card,Returned,,False,False
+ORD-1109,2026-01-25,C032,Ngozi Bello,ngozi.bello32@example.com,United States,P006,,12.75,,51.0,Card,Cancelled,invalid (<=0 or >50),False,False
+ORD-1110,2026-07-22,C058,Amara Garcia,,Nigeria,P011,1,99.0,99.0,99.0,Mobile Wallet,Shipped,,False,False
+ORD-1111,2026-02-22,C006,Kwame Okafor,kwame.okafor6@example.com,Ghana,P012,3,14.25,42.75,42.75,Mobile Wallet,Delivered,,False,False
+ORD-1112,2026-07-16,C009,David Tanaka,david.tanaka9@example.com,South Africa,P002,2,79.5,159.0,159.0,Bank Transfer,Delivered,,False,False
+ORD-1113,2026-02-27,C004,Fatima Adeyemi,fatima.adeyemi4@example.com,South Africa,P004,1,34.0,34.0,34.0,,Cancelled,,False,False
+ORD-1114,2026-09-14,C051,Grace Brown,grace.brown51@example.com,United Kingdom,P007,2,42.0,84.0,84.0,Card,Delivered,,False,False
+ORD-1115,2026-02-14,C047,Emeka Tanaka,emeka.tanaka47@example.com,United Kingdom,P004,1,34.0,34.0,34.0,Cash on Delivery,Delivered,,False,False
+ORD-1116,2026-05-20,C002,Ngozi Khan,ngozi.khan2@example.com,Ghana,P006,3,12.75,38.25,38.25,,Delivered,,False,False
+ORD-1117,2026-01-19,C025,Emeka Okafor,emeka.okafor25@example.com,South Africa,P003,1,9.99,9.99,9.99,Bank Transfer,Delivered,,False,False
+ORD-1118,2026-10-11,C055,,ahmed.rossi55@example.com,Ghana,P005,1,149.0,149.0,149.0,Cash on Delivery,Delivered,,False,False
+ORD-1119,2026-06-07,C001,Ahmed Adeyemi,ahmed.adeyemi1@example.com,Ghana,P011,1,99.0,99.0,99.0,Mobile Wallet,Returned,,False,False
+ORD-1120,2026-08-11,C005,Ngozi Garcia,ngozi.garcia5@example.com,South Africa,P010,2,6.5,13.0,13.0,Cash on Delivery,Cancelled,,False,False
+ORD-1121,2026-04-17,C035,Ahmed Garcia,ahmed.garcia35@example.com,Ghana,P006,5,12.75,63.75,63.75,Card,Shipped,,False,False
+ORD-1122,2026-10-12,C002,Ngozi Khan,ngozi.khan2@example.com,Ghana,P099,3,42.0,126.0,126.0,Card,Delivered,,False,True
+ORD-1123,2026-02-17,C042,Tunde Smith,,South Africa,P008,3,59.99,179.97,179.97,Card,Cancelled,,False,False
+ORD-1124,2026-09-13,C040,Zara Mensah,zara.mensah40@example.com,Ghana,P004,2,34.0,68.0,68.0,Card,Delivered,,False,False
+ORD-1125,2026-04-03,C033,Zara Smith,zara.smith33@example.com,South Africa,P006,1,12.75,12.75,12.75,Cash on Delivery,Shipped,,False,False
+ORD-1126,2026-03-30,C055,Ahmed Rossi,ahmed.rossi55@example.com,Ghana,P007,1,42.0,42.0,42.0,Cash on Delivery,Shipped,,False,False
+ORD-1127,2026-04-14,C034,Fatima Adeyemi,fatima.adeyemi34@example.com,United States,P008,1,59.99,59.99,59.99,Cash on Delivery,Delivered,,False,False
+ORD-1128,2026-06-12,C051,Grace Brown,grace.brown51@example.com,United Kingdom,P011,5,99.0,495.0,495.0,Bank Transfer,Delivered,,False,False
+ORD-1129,2026-03-14,C037,Yuki Rossi,,Nigeria,P002,4,79.5,318.0,318.0,,Delivered,,False,False
+ORD-1130,2026-07-13,C011,Liam Ibrahim,liam.ibrahim11@example.com,South Africa,P007,1,42.0,42.0,42.0,Bank Transfer,Delivered,,False,False
+ORD-1131,2026-03-26,C031,,mateo.khan31@example.com,Kenya,P012,1,14.25,14.25,14.25,Card,Delivered,,False,False
+ORD-1132,2026-09-03,C019,Yuki Okafor,yuki.okafor19@example.com,Nigeria,P011,2,99.0,198.0,198.0,Cash on Delivery,Delivered,,False,False
+ORD-1133,2026-03-19,C015,Mateo Tanaka,mateo.tanaka15@example.com,United Kingdom,P005,2,149.0,298.0,298.0,Cash on Delivery,Returned,,False,False
+ORD-1134,2026-09-22,C003,Chloe Nwosu,chloe.nwosu3@example.com,United Kingdom,P009,2,29.9,59.8,59.8,Card,Delivered,,False,False
+ORD-1135,2026-07-23,C005,Ngozi Garcia,ngozi.garcia5@example.com,South Africa,P002,1,79.5,79.5,79.5,Card,Delivered,,False,False
+ORD-1136,2026-10-20,C017,Kwame Garcia,kwame.garcia17@example.com,Ghana,P007,2,42.0,84.0,84.0,Mobile Wallet,Delivered,,False,False
+ORD-1137,2026-04-27,C045,Grace Nwosu,grace.nwosu45@example.com,United States,P011,1,99.0,99.0,99.0,Cash on Delivery,Shipped,,False,False
+ORD-1138,2026-01-15,C009,David Tanaka,david.tanaka9@example.com,South Africa,P009,4,29.9,119.6,119.6,Card,Delivered,,False,False
+ORD-1139,2026-03-25,C038,Ahmed Brown,ahmed.brown38@example.com,United Kingdom,P009,1,29.9,29.9,29.9,Cash on Delivery,Delivered,,False,False
+ORD-1140,,C009,David Tanaka,david.tanaka9@example.com,South Africa,P011,1,99.0,99.0,99.0,Cash on Delivery,Cancelled,,False,False
+ORD-1141,2026-06-22,C044,Yuki Bello,yuki.bello44@example.com,Ghana,P002,1,79.5,79.5,79.5,Cash on Delivery,Delivered,,False,False
+ORD-1142,2026-10-20,C003,Chloe Nwosu,chloe.nwosu3@example.com,United Kingdom,P010,2,6.5,13.0,13.0,Mobile Wallet,Delivered,,False,False
+ORD-1143,2026-06-07,C023,Sofia Tanaka,sofia.tanaka23@example.com,United Kingdom,P004,2,34.0,68.0,68.0,Cash on Delivery,Delivered,,False,False
+ORD-1144,2026-10-19,C009,David Tanaka,david.tanaka9@example.com,South Africa,P004,1,34.0,34.0,3.4,Cash on Delivery,Shipped,,True,False
+ORD-1145,2026-09-02,C041,Amara Garcia,amara.garcia41@example.com,United States,P007,1,42.0,42.0,42.0,Cash on Delivery,Cancelled,,False,False
+ORD-1146,2026-09-26,C019,Yuki Okafor,yuki.okafor19@example.com,Nigeria,P008,2,59.99,119.98,1199.8,Cash on Delivery,Delivered,,True,False
+ORD-1147,2026-10-01,C057,Tunde Khan,tunde.khan57@example.com,South Africa,P011,1,99.0,99.0,99.0,Card,Shipped,,False,False
+ORD-1148,2026-02-23,C039,,amara.smith39@example.com,Kenya,P012,1,14.25,14.25,14.25,Card,Delivered,,False,False
+ORD-1149,2026-09-10,C059,Zara Okafor,,Kenya,P002,3,79.5,238.5,238.5,Card,Shipped,,False,False
+ORD-1150,2026-03-12,C057,Tunde Khan,tunde.khan57@example.com,South Africa,P001,1,25.99,25.99,25.99,Mobile Wallet,Cancelled,,False,False
+ORD-1151,2026-03-23,C047,,emeka.tanaka47@example.com,United Kingdom,P001,5,25.99,129.95,129.95,Mobile Wallet,Delivered,,False,False
+ORD-1152,,C034,Fatima Adeyemi,fatima.adeyemi34@example.com,United States,P012,2,14.25,28.5,28.5,Card,Delivered,,False,False
+ORD-1153,2026-06-14,C011,,liam.ibrahim11@example.com,,P002,3,79.5,238.5,238.5,Bank Transfer,Delivered,,False,False
+ORD-1154,2026-06-05,C051,Grace Brown,grace.brown51@example.com,United Kingdom,P010,5,6.5,32.5,32.5,,Shipped,,False,False
+ORD-1155,2026-02-24,C019,Yuki Okafor,yuki.okafor19@example.com,Nigeria,P009,2,29.9,59.8,59.8,Mobile Wallet,Delivered,,False,False
+ORD-1156,2026-09-16,C029,Tunde Mensah,tunde.mensah29@example.com,United Kingdom,P008,2,59.99,119.98,119.98,Mobile Wallet,Cancelled,,False,False
+ORD-1157,2026-08-20,C026,Mateo Smith,mateo.smith26@example.com,South Africa,P006,5,12.75,63.75,63.75,Cash on Delivery,Delivered,,False,False
+ORD-1158,2026-10-01,C043,Liam Smith,liam.smith43@example.com,United States,P012,1,14.25,14.25,14.25,Card,Delivered,,False,False
+ORD-1159,,C007,Emeka Okafor,emeka.okafor7@example.com,Kenya,P010,,6.5,,19.5,Mobile Wallet,Delivered,invalid (<=0 or >50),False,False
+ORD-1160,2026-07-08,C054,Tunde Brown,tunde.brown54@example.com,Nigeria,P003,4,34.0,136.0,136.0,Bank Transfer,Delivered,,False,False
+ORD-1161,2026-06-15,C010,Kwame Garcia,kwame.garcia10@example.com,South Africa,P001,1,25.99,25.99,25.99,Mobile Wallet,Delivered,,False,False
+ORD-1162,2026-10-15,C049,Mateo Garcia,mateo.garcia49@example.com,South Africa,P010,2,6.5,13.0,13.0,Card,Delivered,,False,False
+ORD-1163,2026-09-18,C053,Tunde Garcia,tunde.garcia53@example.com,Ghana,P006,2,12.75,25.5,255.0,Bank Transfer,Delivered,,True,False
+ORD-1164,2026-02-06,C048,,david.rossi48@example.com,South Africa,P007,2,42.0,84.0,84.0,Cash on Delivery,Delivered,,False,False
+ORD-1165,2026-10-27,C040,Zara Mensah,,Ghana,P002,3,79.5,238.5,238.5,Card,Shipped,,False,False
+ORD-1166,2026-07-11,C041,Amara Garcia,amara.garcia41@example.com,United States,P003,1,9.99,9.99,9.99,Bank Transfer,Delivered,,False,False
+ORD-1167,2026-10-18,C013,Chloe Garcia,chloe.garcia13@example.com,South Africa,P002,1,79.5,79.5,79.5,Card,Delivered,,False,False
+ORD-1168,2026-10-17,C020,Chloe Adeyemi,chloe.adeyemi20@example.com,Ghana,P012,2,14.25,28.5,28.5,Bank Transfer,Delivered,,False,False
+ORD-1169,,C006,Kwame Okafor,kwame.okafor6@example.com,Ghana,P005,3,149.0,447.0,447.0,Card,Delivered,,False,False
+ORD-1170,2026-05-29,C015,Mateo Tanaka,mateo.tanaka15@example.com,United Kingdom,P010,2,6.5,13.0,13.0,Mobile Wallet,Delivered,,False,False
+ORD-1171,2026-09-07,C023,Sofia Tanaka,sofia.tanaka23@example.com,United Kingdom,P001,1,25.99,25.99,29.89,Card,Delivered,,True,False
+ORD-1172,2026-02-09,C042,Tunde Smith,tunde.smith42@example.com,South Africa,P007,1,42.0,42.0,42.0,Mobile Wallet,Shipped,,False,False
+ORD-1173,2026-06-19,C008,Sofia Mensah,sofia.mensah8@example.com,Nigeria,P011,,99.0,,99.0,Mobile Wallet,Delivered,invalid (<=0 or >50),False,False
+ORD-1174,2026-05-26,C041,Amara Garcia,amara.garcia41@example.com,United States,P001,4,25.99,103.96,103.96,Mobile Wallet,Delivered,,False,False
+ORD-1175,,C007,Emeka Okafor,emeka.okafor7@example.com,Kenya,P001,1,25.99,25.99,25.99,Card,Delivered,,False,False
+ORD-1176,2026-08-08,C056,,ahmed.garcia56@example.com,Nigeria,P001,2,25.99,51.98,51.98,Cash on Delivery,Delivered,,False,False
+ORD-1177,2026-07-29,C014,Ngozi Rossi,ngozi.rossi14@example.com,Kenya,P012,3,14.25,42.75,42.75,Cash on Delivery,Cancelled,,False,False
+ORD-1178,,C050,Fatima Ibrahim,,South Africa,P012,1,14.25,14.25,14.25,Mobile Wallet,Delivered,,False,False
+ORD-1179,,C024,Ngozi Mensah,ngozi.mensah24@example.com,United States,P002,2,79.5,159.0,159.0,Cash on Delivery,Cancelled,,False,False
+ORD-1180,2026-02-14,C042,Tunde Smith,tunde.smith42@example.com,South Africa,P001,5,25.99,129.95,129.95,Mobile Wallet,Delivered,,False,False
+ORD-1181,2026-07-28,C037,Yuki Rossi,yuki.rossi37@example.com,Nigeria,P001,1,25.99,25.99,25.99,Cash on Delivery,Cancelled,,False,False
+ORD-1182,2026-05-13,C038,Ahmed Brown,ahmed.brown38@example.com,United Kingdom,P001,3,25.99,77.97,25.99,Bank Transfer,Delivered,,True,False
+ORD-1183,,C048,David Rossi,david.rossi48@example.com,South Africa,P011,4,99.0,396.0,396.0,Cash on Delivery,Delivered,,False,False
+ORD-1184,2026-10-22,C021,Yuki Adeyemi,yuki.adeyemi21@example.com,United Kingdom,P008,4,59.99,239.96,239.96,Mobile Wallet,Shipped,,False,False
+ORD-1185,2026-10-25,C001,Ahmed Adeyemi,ahmed.adeyemi1@example.com,Ghana,P011,1,99.0,99.0,99.0,Bank Transfer,Delivered,,False,False
+ORD-1186,2026-05-01,C053,Tunde Garcia,tunde.garcia53@example.com,Ghana,P002,2,79.5,159.0,159.0,Bank Transfer,Delivered,,False,False
+ORD-1187,2026-09-01,C004,Fatima Adeyemi,fatima.adeyemi4@example.com,South Africa,P004,3,34.0,102.0,102.0,Cash on Delivery,Delivered,,False,False
+ORD-1188,2026-02-10,C050,Fatima Ibrahim,fatima.ibrahim50@example.com,South Africa,P012,1,14.25,14.25,14.25,Bank Transfer,Delivered,,False,False
+ORD-1189,2026-07-31,C038,Ahmed Brown,ahmed.brown38@example.com,United Kingdom,P009,5,29.9,149.5,149.5,Bank Transfer,Cancelled,,False,False
+ORD-1190,2026-07-19,C006,Kwame Okafor,kwame.okafor6@example.com,Ghana,P011,4,99.0,396.0,396.0,Mobile Wallet,Delivered,,False,False
+ORD-1191,2026-10-16,C039,Amara Smith,,Kenya,P003,2,59.99,119.98,119.98,Cash on Delivery,Delivered,,False,False
+ORD-1192,2026-08-09,C031,Mateo Khan,mateo.khan31@example.com,Kenya,P005,1,149.0,149.0,149.0,Cash on Delivery,Delivered,,False,False
+ORD-1193,,C019,Yuki Okafor,,Nigeria,P099,2,99.0,198.0,198.0,Bank Transfer,Delivered,,False,True
+ORD-1194,2026-06-09,C032,Ngozi Bello,ngozi.bello32@example.com,United States,P004,1,34.0,34.0,34.0,Mobile Wallet,Delivered,,False,False
+ORD-1195,2026-01-18,C029,Tunde Mensah,tunde.mensah29@example.com,United Kingdom,P004,2,34.0,68.0,68.0,Bank Transfer,Delivered,,False,False
+ORD-1196,2026-01-08,C016,Zara Tanaka,zara.tanaka16@example.com,United Kingdom,P011,1,99.0,99.0,99.0,Mobile Wallet,Delivered,,False,False
+ORD-1197,2026-10-02,C023,Sofia Tanaka,sofia.tanaka23@example.com,United Kingdom,P011,,99.0,,99.0,Cash on Delivery,Shipped,invalid (<=0 or >50),False,False
+ORD-1198,2026-10-11,C047,Emeka Tanaka,,United Kingdom,P008,1,59.99,59.99,59.99,Cash on Delivery,Delivered,,False,False
+ORD-1199,2026-05-25,C032,Ngozi Bello,ngozi.bello32@example.com,United States,P009,1,29.9,29.9,29.9,Card,Delivered,,False,False
+ORD-1200,2026-02-06,C024,Ngozi Mensah,ngozi.mensah24@example.com,United States,P004,2,34.0,68.0,68.0,Card,Shipped,,False,False
+ORD-1201,2026-04-29,C034,Fatima Adeyemi,fatima.adeyemi34@example.com,United States,P002,1,79.5,79.5,79.5,Bank Transfer,Delivered,,False,False
+ORD-1202,2026-06-11,C039,Amara Smith,amara.smith39@example.com,Kenya,P008,4,59.99,239.96,239.96,Mobile Wallet,Shipped,,False,False
+ORD-1203,2026-06-04,C034,Fatima Adeyemi,fatima.adeyemi34@example.com,United States,P003,5,9.99,49.95,49.95,Cash on Delivery,Shipped,,False,False
+ORD-1204,2026-10-19,C020,Chloe Adeyemi,chloe.adeyemi20@example.com,Ghana,P002,2,79.5,159.0,159.0,Cash on Delivery,Delivered,,False,False
+ORD-1205,2026-01-06,C015,Mateo Tanaka,mateo.tanaka15@example.com,United Kingdom,P012,2,14.25,28.5,28.5,Cash on Delivery,Delivered,,False,False
+ORD-1206,2026-01-26,C022,Ahmed Smith,ahmed.smith22@example.com,United Kingdom,P002,1,79.5,79.5,79.5,Mobile Wallet,Shipped,,False,False
+ORD-1207,2026-06-28,C043,Liam Smith,liam.smith43@example.com,United States,P007,1,42.0,42.0,42.0,Cash on Delivery,Returned,,False,False
+ORD-1208,2026-05-28,C040,Zara Mensah,zara.mensah40@example.com,Ghana,P003,3,9.99,29.97,29.97,,Delivered,,False,False
+ORD-1209,2026-04-13,C017,Kwame Garcia,kwame.garcia17@example.com,Ghana,P003,1,9.99,9.99,9.99,Mobile Wallet,Delivered,,False,False
+ORD-1210,2026-04-12,C039,Amara Smith,amara.smith39@example.com,Kenya,P009,1,29.9,29.9,29.9,Card,Delivered,,False,False
+ORD-1211,2026-05-24,C057,Tunde Khan,tunde.khan57@example.com,South Africa,P001,4,25.99,103.96,103.96,Bank Transfer,Shipped,,False,False
+ORD-1212,2026-03-12,C035,Ahmed Garcia,ahmed.garcia35@example.com,Ghana,P011,3,99.0,297.0,341.55,Bank Transfer,Returned,,True,False
+ORD-1213,2026-05-21,C027,Zara Rossi,,Kenya,P005,1,149.0,149.0,149.0,Bank Transfer,Shipped,,False,False
+ORD-1214,2026-03-12,C012,Liam Bello,liam.bello12@example.com,Kenya,P007,1,42.0,42.0,4.2,Card,Returned,,True,False
+ORD-1215,2026-10-20,C025,Emeka Okafor,,South Africa,P012,1,14.25,14.25,14.25,Card,Delivered,,False,False
+ORD-1216,,C030,Chloe Nwosu,chloe.nwosu30@example.com,Nigeria,P003,1,9.99,9.99,9.99,Mobile Wallet,Shipped,,False,False
+ORD-1217,2026-03-25,C045,Grace Nwosu,grace.nwosu45@example.com,United States,P011,4,99.0,396.0,396.0,Mobile Wallet,Delivered,,False,False
+ORD-1218,2026-06-07,C050,Fatima Ibrahim,fatima.ibrahim50@example.com,South Africa,P012,3,14.25,42.75,14.25,Cash on Delivery,Delivered,,True,False
+ORD-1219,,C039,Amara Smith,amara.smith39@example.com,Kenya,P010,1,6.5,6.5,6.5,Card,Delivered,,False,False
+ORD-1220,2026-08-22,C037,Yuki Rossi,yuki.rossi37@example.com,Nigeria,P009,1,29.9,29.9,2.99,Card,Delivered,,True,False
+ORD-1221,2026-02-14,C047,Emeka Tanaka,emeka.tanaka47@example.com,United Kingdom,P011,2,99.0,198.0,198.0,Mobile Wallet,Delivered,,False,False
+ORD-1222,,C051,Grace Brown,grace.brown51@example.com,United Kingdom,P002,2,79.5,159.0,159.0,Card,Delivered,,False,False
+ORD-1223,2026-06-23,C002,Ngozi Khan,ngozi.khan2@example.com,Ghana,P003,1,9.99,9.99,9.99,Card,Delivered,,False,False
+ORD-1224,2026-07-01,C014,Ngozi Rossi,ngozi.rossi14@example.com,Kenya,P010,2,6.5,13.0,13.0,Cash on Delivery,Delivered,,False,False
+ORD-1225,2026-03-31,C020,Chloe Adeyemi,chloe.adeyemi20@example.com,Ghana,P004,2,34.0,68.0,68.0,Card,Delivered,,False,False
+ORD-1226,2026-07-18,C014,Ngozi Rossi,,Kenya,P012,1,14.25,14.25,14.25,Cash on Delivery,Delivered,,False,False
+ORD-1227,2026-05-20,C050,Fatima Ibrahim,fatima.ibrahim50@example.com,South Africa,P008,2,59.99,119.98,119.98,,Delivered,,False,False
+ORD-1228,2026-08-17,C006,Kwame Okafor,kwame.okafor6@example.com,Ghana,P007,1,42.0,42.0,42.0,Card,Delivered,,False,False
+ORD-1229,2026-06-19,C026,Mateo Smith,mateo.smith26@example.com,South Africa,P003,2,9.99,19.98,19.98,Mobile Wallet,Delivered,,False,False
+ORD-1230,2026-07-31,C035,Ahmed Garcia,ahmed.garcia35@example.com,Ghana,P008,1,59.99,59.99,59.99,Mobile Wallet,Delivered,,False,False
+ORD-1231,2026-10-12,C038,Ahmed Brown,ahmed.brown38@example.com,United Kingdom,P010,1,6.5,6.5,6.5,Mobile Wallet,Delivered,,False,False
+ORD-1232,2026-04-16,C040,Zara Mensah,zara.mensah40@example.com,Ghana,P010,1,6.5,6.5,6.5,,Shipped,,False,False
+ORD-1233,2026-05-01,C056,,ahmed.garcia56@example.com,Nigeria,P005,3,149.0,447.0,447.0,Mobile Wallet,Delivered,,False,False
+ORD-1234,2026-03-11,C057,Tunde Khan,tunde.khan57@example.com,South Africa,P008,2,59.99,119.98,119.98,Mobile Wallet,Delivered,,False,False
+ORD-1235,2026-10-18,C024,Ngozi Mensah,ngozi.mensah24@example.com,United States,P001,5,25.99,129.95,129.95,Mobile Wallet,Delivered,,False,False
+ORD-1236,2026-08-29,C022,Ahmed Smith,ahmed.smith22@example.com,United Kingdom,P009,,29.9,,89.7,Mobile Wallet,Returned,invalid (<=0 or >50),False,False
+ORD-1237,2026-09-16,C019,Yuki Okafor,yuki.okafor19@example.com,Nigeria,P008,1,59.99,59.99,59.99,Bank Transfer,Delivered,,False,False
+ORD-1238,2026-03-20,C022,Ahmed Smith,ahmed.smith22@example.com,United Kingdom,P002,5,79.5,397.5,397.5,Mobile Wallet,Delivered,,False,False
+ORD-1239,2026-08-31,C025,Emeka Okafor,emeka.okafor25@example.com,South Africa,P011,2,99.0,198.0,198.0,Card,Cancelled,,False,False
+ORD-1240,2026-10-27,C052,Zara Rossi,zara.rossi52@example.com,United Kingdom,P002,2,79.5,159.0,795.0,,Delivered,,True,False
+ORD-1241,2026-03-04,C043,Liam Smith,liam.smith43@example.com,United States,P004,5,34.0,170.0,170.0,Bank Transfer,Delivered,,False,False
+ORD-1242,2026-02-01,C011,Liam Ibrahim,liam.ibrahim11@example.com,South Africa,P002,1,79.5,79.5,79.5,Cash on Delivery,Delivered,,False,False
+ORD-1243,2026-05-09,C005,Ngozi Garcia,,South Africa,P002,2,79.5,159.0,159.0,Bank Transfer,Cancelled,,False,False
+ORD-1244,2026-09-04,C001,Ahmed Adeyemi,ahmed.adeyemi1@example.com,Ghana,P007,5,42.0,210.0,210.0,Cash on Delivery,Delivered,,False,False
+ORD-1245,2026-09-07,C007,Emeka Okafor,emeka.okafor7@example.com,Kenya,P011,2,99.0,198.0,227.7,,Delivered,,True,False
+ORD-1246,,C003,Chloe Nwosu,chloe.nwosu3@example.com,United Kingdom,P007,,42.0,,42.0,Bank Transfer,Delivered,invalid (<=0 or >50),False,False
+ORD-1247,2026-04-23,C053,Tunde Garcia,tunde.garcia53@example.com,Ghana,P002,1,79.5,79.5,795.0,Mobile Wallet,Delivered,,True,False
+ORD-1248,2026-07-12,C003,Chloe Nwosu,chloe.nwosu3@example.com,United Kingdom,P003,1,9.99,9.99,9.99,Card,Delivered,,False,False
+ORD-1249,2026-09-13,C045,Grace Nwosu,grace.nwosu45@example.com,United States,P001,2,25.99,51.98,51.98,Cash on Delivery,Delivered,,False,False
+ORD-1250,2026-08-31,C010,Kwame Garcia,,,P011,3,99.0,297.0,297.0,Card,Delivered,,False,False
+ORD-1251,2026-04-12,C038,Ahmed Brown,ahmed.brown38@example.com,United Kingdom,P010,1,6.5,6.5,6.5,Card,Delivered,,False,False
+ORD-1252,2026-05-19,C047,Emeka Tanaka,emeka.tanaka47@example.com,United Kingdom,P004,2,34.0,68.0,68.0,Cash on Delivery,Delivered,,False,False
+ORD-1253,2026-04-21,C055,Ahmed Rossi,ahmed.rossi55@example.com,,P009,1,29.9,29.9,29.9,Card,Delivered,,False,False
+ORD-1254,2026-02-20,C026,Mateo Smith,mateo.smith26@example.com,South Africa,P008,3,59.99,179.97,179.97,Mobile Wallet,Delivered,,False,False
+ORD-1255,2026-01-01,C012,Liam Bello,liam.bello12@example.com,Kenya,P006,2,12.75,25.5,25.5,Cash on Delivery,Delivered,,False,False
+ORD-1256,2026-01-21,C025,Emeka Okafor,emeka.okafor25@example.com,South Africa,P006,1,12.75,12.75,12.75,Bank Transfer,Returned,,False,False
+ORD-1257,2026-08-20,C004,Fatima Adeyemi,fatima.adeyemi4@example.com,South Africa,P002,1,79.5,79.5,79.5,Mobile Wallet,Delivered,,False,False
+ORD-1258,2026-09-12,C018,Ngozi Nwosu,,Nigeria,P002,2,79.5,159.0,159.0,Cash on Delivery,Returned,,False,False
+ORD-1259,2026-09-29,C042,Tunde Smith,tunde.smith42@example.com,South Africa,P006,1,12.75,12.75,12.75,Bank Transfer,Delivered,,False,False
+ORD-1260,2026-03-20,C046,Chloe Mensah,chloe.mensah46@example.com,United States,P012,4,14.25,57.0,57.0,,Delivered,,False,False
+ORD-1261,2026-10-07,C060,Tunde Rossi,tunde.rossi60@example.com,Ghana,P005,1,12.75,12.75,12.75,Cash on Delivery,Cancelled,,False,False
+ORD-1262,2026-01-29,C029,Tunde Mensah,tunde.mensah29@example.com,United Kingdom,P006,1,12.75,12.75,12.75,Cash on Delivery,Delivered,,False,False
+ORD-1263,2026-06-26,C025,Emeka Okafor,emeka.okafor25@example.com,South Africa,P006,1,12.75,12.75,12.75,Bank Transfer,Shipped,,False,False
+ORD-1264,2026-07-12,C022,Ahmed Smith,ahmed.smith22@example.com,United Kingdom,P002,4,79.5,318.0,318.0,Mobile Wallet,Delivered,,False,False
+ORD-1265,2026-08-30,C020,Chloe Adeyemi,chloe.adeyemi20@example.com,Ghana,P011,3,99.0,297.0,297.0,Mobile Wallet,Delivered,,False,False
+ORD-1266,2026-01-09,C024,Ngozi Mensah,ngozi.mensah24@example.com,United States,P009,3,29.9,89.7,59.8,Bank Transfer,Delivered,,True,False
+ORD-1267,2026-06-11,C049,Mateo Garcia,mateo.garcia49@example.com,South Africa,P003,,9.99,,19.98,Cash on Delivery,Delivered,invalid (<=0 or >50),False,False
+ORD-1268,2026-10-10,C045,Grace Nwosu,grace.nwosu45@example.com,United States,P099,3,29.9,89.7,89.7,Mobile Wallet,Delivered,,False,True
+ORD-1269,2026-04-27,C055,Ahmed Rossi,ahmed.rossi55@example.com,Ghana,P012,2,14.25,28.5,14.25,,Delivered,,True,False
+ORD-1270,2026-04-05,C014,Ngozi Rossi,ngozi.rossi14@example.com,Kenya,P010,4,6.5,26.0,26.0,,Delivered,,False,False
+ORD-1271,2026-04-05,C033,Zara Smith,zara.smith33@example.com,South Africa,P012,1,14.25,14.25,14.25,Cash on Delivery,Delivered,,False,False
+ORD-1272,2026-08-16,C030,Chloe Nwosu,chloe.nwosu30@example.com,Nigeria,P010,2,6.5,13.0,13.0,Bank Transfer,Cancelled,,False,False
+ORD-1273,2026-04-12,C048,David Rossi,david.rossi48@example.com,South Africa,P003,1,9.99,9.99,9.99,Card,Shipped,,False,False
+ORD-1274,2026-05-09,C010,Kwame Garcia,kwame.garcia10@example.com,South Africa,P008,1,59.99,59.99,59.99,Card,Shipped,,False,False
+ORD-1275,2026-05-14,C043,Liam Smith,,United States,P008,1,59.99,59.99,59.99,Card,Returned,,False,False
+ORD-1276,2026-09-09,C049,Mateo Garcia,mateo.garcia49@example.com,South Africa,P002,2,79.5,159.0,159.0,Mobile Wallet,Delivered,,False,False
+ORD-1277,2026-02-19,C049,Mateo Garcia,mateo.garcia49@example.com,,P011,1,99.0,99.0,99.0,Cash on Delivery,Delivered,,False,False
+ORD-1278,2026-01-12,C018,Ngozi Nwosu,ngozi.nwosu18@example.com,Nigeria,P001,2,25.99,51.98,51.98,Cash on Delivery,Shipped,,False,False
+ORD-1279,2026-05-16,C055,Ahmed Rossi,ahmed.rossi55@example.com,Ghana,P009,1,29.9,29.9,29.9,Bank Transfer,Shipped,,False,False
+ORD-1280,2026-09-21,C013,Chloe Garcia,chloe.garcia13@example.com,South Africa,P007,1,42.0,42.0,42.0,Card,Shipped,,False,False
+ORD-1281,2026-03-17,C034,Fatima Adeyemi,fatima.adeyemi34@example.com,United States,P004,1,34.0,34.0,34.0,,Delivered,,False,False
+ORD-1282,2026-01-19,C028,Yuki Adeyemi,yuki.adeyemi28@example.com,Kenya,P007,,42.0,,840.0,Cash on Delivery,Delivered,invalid (<=0 or >50),False,False
+ORD-1283,2026-05-01,C054,Tunde Brown,tunde.brown54@example.com,Nigeria,P012,3,14.25,42.75,42.75,Cash on Delivery,Shipped,,False,False
+ORD-1284,,C027,Zara Rossi,zara.rossi27@example.com,Kenya,P005,3,149.0,447.0,447.0,Cash on Delivery,Delivered,,False,False
+ORD-1285,2026-07-16,C043,Liam Smith,liam.smith43@example.com,United States,P004,1,34.0,34.0,34.0,Card,Cancelled,,False,False
+ORD-1286,2026-01-18,C057,,tunde.khan57@example.com,South Africa,P011,1,99.0,99.0,99.0,Mobile Wallet,Cancelled,,False,False
+ORD-1287,2026-08-16,C042,Tunde Smith,tunde.smith42@example.com,South Africa,P011,1,99.0,99.0,99.0,Bank Transfer,Delivered,,False,False
+ORD-1288,2026-06-17,C012,Liam Bello,liam.bello12@example.com,Kenya,P011,2,99.0,198.0,198.0,Cash on Delivery,Delivered,,False,False
+ORD-1289,2026-05-14,C026,Mateo Smith,mateo.smith26@example.com,South Africa,P010,1,6.5,6.5,6.5,Card,Shipped,,False,False
+ORD-1290,2026-05-25,C014,Ngozi Rossi,ngozi.rossi14@example.com,Kenya,P010,1,6.5,6.5,6.5,Mobile Wallet,Delivered,,False,False
+ORD-1291,2026-02-07,C028,Yuki Adeyemi,,Kenya,P012,2,14.25,28.5,28.5,Bank Transfer,Cancelled,,False,False
+ORD-1292,2026-09-10,C012,Liam Bello,liam.bello12@example.com,Kenya,P005,1,149.0,149.0,149.0,Card,Shipped,,False,False
+ORD-1293,2026-03-26,C017,Kwame Garcia,kwame.garcia17@example.com,Ghana,P009,3,29.9,89.7,29.9,Mobile Wallet,Delivered,,True,False
+ORD-1294,2026-02-17,C047,Emeka Tanaka,emeka.tanaka47@example.com,United Kingdom,P003,1,9.99,9.99,9.99,Cash on Delivery,Delivered,,False,False
+ORD-1295,2026-02-11,C007,Emeka Okafor,emeka.okafor7@example.com,Kenya,P006,,12.75,,12.75,Mobile Wallet,Delivered,invalid (<=0 or >50),False,False
+ORD-1296,2026-07-15,C004,Fatima Adeyemi,fatima.adeyemi4@example.com,South Africa,P012,1,14.25,14.25,14.25,Mobile Wallet,Delivered,,False,False
+ORD-1297,2026-09-20,C043,Liam Smith,liam.smith43@example.com,United States,P002,3,79.5,238.5,238.5,Mobile Wallet,Delivered,,False,False
+ORD-1298,2026-02-12,C034,Fatima Adeyemi,,United States,P011,2,99.0,198.0,198.0,Cash on Delivery,Returned,,False,False
+ORD-1299,2026-09-15,C023,Sofia Tanaka,sofia.tanaka23@example.com,United Kingdom,P005,2,149.0,298.0,298.0,Bank Transfer,Shipped,,False,False
+ORD-1300,2026-02-24,C048,David Rossi,david.rossi48@example.com,South Africa,P010,1,6.5,6.5,6.5,Card,Delivered,,False,False
+ORD-1301,2026-04-08,C006,Kwame Okafor,kwame.okafor6@example.com,,P003,1,9.99,9.99,9.99,Card,Delivered,,False,False
+ORD-1302,2026-08-19,C032,Ngozi Bello,ngozi.bello32@example.com,United States,P008,1,59.99,59.99,59.99,Mobile Wallet,Delivered,,False,False
+ORD-1303,2026-02-01,C044,Yuki Bello,yuki.bello44@example.com,Ghana,P008,1,59.99,59.99,59.99,Card,Cancelled,,False,False
+ORD-1304,2026-08-28,C044,Yuki Bello,yuki.bello44@example.com,Ghana,P006,4,12.75,51.0,51.0,Mobile Wallet,Shipped,,False,False
+ORD-1305,2026-09-10,C051,Grace Brown,grace.brown51@example.com,United Kingdom,P007,4,42.0,168.0,168.0,Card,Cancelled,,False,False
+ORD-1306,2026-10-13,C050,Fatima Ibrahim,fatima.ibrahim50@example.com,South Africa,P001,3,25.99,77.97,77.97,Card,Shipped,,False,False
+ORD-1307,2026-09-13,C046,Chloe Mensah,chloe.mensah46@example.com,United States,P008,3,59.99,179.97,179.97,Cash on Delivery,Delivered,,False,False
+ORD-1308,2026-04-27,C010,Kwame Garcia,kwame.garcia10@example.com,South Africa,P009,,29.9,,29.9,Mobile Wallet,Cancelled,invalid (<=0 or >50),False,False
+ORD-1309,2026-09-24,C004,Fatima Adeyemi,fatima.adeyemi4@example.com,South Africa,P011,5,99.0,495.0,495.0,Cash on Delivery,Delivered,,False,False
+ORD-1310,2026-02-13,C050,Fatima Ibrahim,fatima.ibrahim50@example.com,South Africa,P004,4,34.0,136.0,156.4,Cash on Delivery,Delivered,,True,False
+ORD-1311,2026-01-25,C041,Amara Garcia,amara.garcia41@example.com,United States,P009,1,29.9,29.9,29.9,Cash on Delivery,Delivered,,False,False
+ORD-1312,2026-05-07,C046,Chloe Mensah,chloe.mensah46@example.com,United States,P007,2,42.0,84.0,84.0,Cash on Delivery,Delivered,,False,False
+ORD-1313,2026-08-14,C032,Ngozi Bello,ngozi.bello32@example.com,United States,P011,1,99.0,99.0,99.0,Bank Transfer,Delivered,,False,False
+ORD-1314,2026-10-20,C027,Zara Rossi,,Kenya,P002,1,79.5,79.5,79.5,Cash on Delivery,Returned,,False,False
+ORD-1315,2026-10-17,C027,Zara Rossi,zara.rossi27@example.com,Kenya,P008,2,59.99,119.98,119.98,Mobile Wallet,Shipped,,False,False
+ORD-1316,,C043,Liam Smith,liam.smith43@example.com,United States,P008,2,59.99,119.98,137.98,Cash on Delivery,Delivered,,True,False
+ORD-1317,2026-10-24,C014,Ngozi Rossi,ngozi.rossi14@example.com,Kenya,P004,,34.0,,117.3,Cash on Delivery,Delivered,invalid (<=0 or >50),False,False
+ORD-1318,2026-01-31,C020,Chloe Adeyemi,chloe.adeyemi20@example.com,Ghana,P007,2,42.0,84.0,84.0,Card,Delivered,,False,False
+ORD-1319,2026-10-11,C018,Ngozi Nwosu,ngozi.nwosu18@example.com,Nigeria,P001,1,25.99,25.99,25.99,Bank Transfer,Delivered,,False,False
+ORD-1320,2026-10-12,C035,Ahmed Garcia,ahmed.garcia35@example.com,Ghana,P007,5,42.0,210.0,210.0,Cash on Delivery,Delivered,,False,False
+ORD-1321,2026-10-12,C045,Grace Nwosu,grace.nwosu45@example.com,United States,P099,3,79.5,238.5,238.5,Cash on Delivery,Delivered,,False,True
+ORD-1322,2026-09-08,C027,,zara.rossi27@example.com,,P009,4,29.9,119.6,119.6,Card,Delivered,,False,False
+ORD-1323,2026-07-03,C002,Ngozi Khan,ngozi.khan2@example.com,Ghana,P005,,149.0,,298.0,Cash on Delivery,Delivered,invalid (<=0 or >50),False,False
+ORD-1324,2026-10-17,C043,Liam Smith,,United States,P012,2,14.25,28.5,28.5,,Cancelled,,False,False
+ORD-1325,2026-07-28,C004,Fatima Adeyemi,,South Africa,P006,1,12.75,12.75,12.75,,Delivered,,False,False
+ORD-1326,2026-06-18,C005,Ngozi Garcia,ngozi.garcia5@example.com,South Africa,P004,1,34.0,34.0,34.0,Card,Delivered,,False,False
+ORD-1327,2026-08-17,C040,Zara Mensah,zara.mensah40@example.com,Ghana,P008,3,59.99,179.97,206.97,Card,Delivered,,True,False
+ORD-1328,2026-01-06,C015,Mateo Tanaka,mateo.tanaka15@example.com,United Kingdom,P010,3,6.5,19.5,19.5,Card,Delivered,,False,False
+ORD-1329,,C047,Emeka Tanaka,emeka.tanaka47@example.com,United Kingdom,P010,1,6.5,6.5,6.5,Cash on Delivery,Delivered,,False,False
+ORD-1330,2026-08-05,C054,Tunde Brown,tunde.brown54@example.com,Nigeria,P009,3,29.9,89.7,89.7,Card,Delivered,,False,False
+ORD-1331,2026-04-28,C015,Mateo Tanaka,mateo.tanaka15@example.com,United Kingdom,P001,2,25.99,51.98,519.8,Cash on Delivery,Delivered,,True,False
+ORD-1332,2026-06-23,C015,Mateo Tanaka,mateo.tanaka15@example.com,United Kingdom,P005,2,149.0,298.0,298.0,Card,Shipped,,False,False
+ORD-1333,2026-02-03,C040,Zara Mensah,zara.mensah40@example.com,Ghana,P007,4,42.0,168.0,168.0,Bank Transfer,Delivered,,False,False
+ORD-1334,2026-09-08,C009,David Tanaka,david.tanaka9@example.com,South Africa,P009,5,29.9,149.5,149.5,Card,Delivered,,False,False
+ORD-1335,2026-05-01,C015,Mateo Tanaka,mateo.tanaka15@example.com,United Kingdom,P004,1,34.0,34.0,34.0,Bank Transfer,Delivered,,False,False
+ORD-1336,2026-04-30,C025,Emeka Okafor,emeka.okafor25@example.com,South Africa,P001,1,25.99,25.99,25.99,Cash on Delivery,Shipped,,False,False
+ORD-1337,2026-05-14,C055,Ahmed Rossi,ahmed.rossi55@example.com,Ghana,P012,2,14.25,28.5,28.5,Mobile Wallet,Shipped,,False,False
+ORD-1338,2026-02-13,C053,Tunde Garcia,,Ghana,P008,1,59.99,59.99,59.99,Mobile Wallet,Delivered,,False,False
+ORD-1339,2026-01-17,C021,Yuki Adeyemi,yuki.adeyemi21@example.com,United Kingdom,P010,1,6.5,6.5,6.5,Mobile Wallet,Delivered,,False,False
+ORD-1340,2026-07-17,C002,Ngozi Khan,ngozi.khan2@example.com,Ghana,P003,1,9.99,9.99,9.99,Card,Delivered,,False,False
+ORD-1341,2026-03-23,C028,Yuki Adeyemi,yuki.adeyemi28@example.com,Kenya,P012,2,14.25,28.5,28.5,,Delivered,,False,False
+ORD-1342,2026-06-02,C030,Chloe Nwosu,chloe.nwosu30@example.com,Nigeria,P006,2,12.75,25.5,25.5,Mobile Wallet,Delivered,,False,False
+ORD-1343,,C045,Grace Nwosu,grace.nwosu45@example.com,United States,P012,2,14.25,28.5,28.5,Card,Delivered,,False,False
+ORD-1344,2026-02-28,C026,Mateo Smith,mateo.smith26@example.com,South Africa,P001,1,25.99,25.99,25.99,Mobile Wallet,Delivered,,False,False
+ORD-1345,2026-08-14,C001,Ahmed Adeyemi,ahmed.adeyemi1@example.com,Ghana,P011,1,99.0,99.0,9.9,Bank Transfer,Delivered,,True,False
+ORD-1346,2026-04-23,C013,Chloe Garcia,chloe.garcia13@example.com,South Africa,P005,2,99.0,198.0,198.0,Bank Transfer,Delivered,,False,False
+ORD-1347,2026-02-03,C025,Emeka Okafor,emeka.okafor25@example.com,South Africa,P004,1,34.0,34.0,34.0,Card,Cancelled,,False,False
+ORD-1348,2026-03-31,C044,Yuki Bello,yuki.bello44@example.com,Ghana,P012,1,14.25,14.25,14.25,Mobile Wallet,Delivered,,False,False
+ORD-1349,,C004,Fatima Adeyemi,fatima.adeyemi4@example.com,South Africa,P003,1,9.99,9.99,1.0,Bank Transfer,Shipped,,True,False
+ORD-1350,2026-04-24,C016,Zara Tanaka,zara.tanaka16@example.com,United Kingdom,P011,2,99.0,198.0,198.0,Bank Transfer,Delivered,,False,False
+ORD-1351,2026-04-12,C047,Emeka Tanaka,emeka.tanaka47@example.com,United Kingdom,P008,1,59.99,59.99,59.99,Cash on Delivery,Delivered,,False,False
+ORD-1352,2026-02-12,C002,Ngozi Khan,ngozi.khan2@example.com,,P007,1,42.0,42.0,42.0,Bank Transfer,Delivered,,False,False
+ORD-1353,2026-07-11,C027,Zara Rossi,zara.rossi27@example.com,Kenya,P007,5,42.0,210.0,210.0,Card,Cancelled,,False,False
+ORD-1354,,C060,Tunde Rossi,tunde.rossi60@example.com,Ghana,P007,2,42.0,84.0,84.0,Card,Delivered,,False,False
+ORD-1355,2026-04-07,C038,Ahmed Brown,ahmed.brown38@example.com,United Kingdom,P002,2,79.5,159.0,159.0,Cash on Delivery,Delivered,,False,False
+ORD-1356,2026-03-28,C045,Grace Nwosu,grace.nwosu45@example.com,United States,P005,1,149.0,149.0,149.0,Mobile Wallet,Delivered,,False,False
+ORD-1357,,C017,Kwame Garcia,kwame.garcia17@example.com,Ghana,P007,1,42.0,42.0,42.0,Card,Delivered,,False,False
+ORD-1358,2026-05-17,C001,Ahmed Adeyemi,ahmed.adeyemi1@example.com,Ghana,P007,2,42.0,84.0,84.0,Mobile Wallet,Delivered,,False,False
+ORD-1359,2026-03-04,C057,Tunde Khan,tunde.khan57@example.com,South Africa,P003,,9.99,,9.99,Cash on Delivery,Delivered,invalid (<=0 or >50),False,False
+ORD-1360,2026-02-11,C032,Ngozi Bello,,United States,P007,2,42.0,84.0,84.0,Card,Delivered,,False,False
+ORD-1361,2026-09-04,C058,Amara Garcia,amara.garcia58@example.com,Nigeria,P008,5,59.99,299.95,299.95,Bank Transfer,Delivered,,False,False
+ORD-1362,2026-04-25,C006,Kwame Okafor,kwame.okafor6@example.com,Ghana,P012,1,14.25,14.25,14.25,Card,Delivered,,False,False
+ORD-1363,2026-06-10,C037,Yuki Rossi,yuki.rossi37@example.com,Nigeria,P006,1,12.75,12.75,12.75,Cash on Delivery,Delivered,,False,False
+ORD-1364,2026-09-13,C010,Kwame Garcia,kwame.garcia10@example.com,South Africa,P005,3,149.0,447.0,447.0,Bank Transfer,Delivered,,False,False
+ORD-1365,2026-04-26,C046,Chloe Mensah,chloe.mensah46@example.com,United States,P004,3,34.0,102.0,102.0,Mobile Wallet,Delivered,,False,False
+ORD-1366,,C026,Mateo Smith,mateo.smith26@example.com,South Africa,P002,1,79.5,79.5,79.5,Mobile Wallet,Delivered,,False,False
+ORD-1367,2026-01-29,C028,Yuki Adeyemi,yuki.adeyemi28@example.com,Kenya,P011,3,99.0,297.0,297.0,Card,Returned,,False,False
+ORD-1368,2026-08-26,C051,Grace Brown,,United Kingdom,P011,2,99.0,198.0,198.0,Mobile Wallet,Delivered,,False,False
+ORD-1369,2026-03-06,C045,Grace Nwosu,grace.nwosu45@example.com,United States,P007,1,42.0,42.0,42.0,Bank Transfer,Shipped,,False,False
+ORD-1370,2026-04-03,C008,Sofia Mensah,sofia.mensah8@example.com,Nigeria,P003,3,9.99,29.97,29.97,Card,Delivered,,False,False
+ORD-1371,2026-05-31,C003,Chloe Nwosu,chloe.nwosu3@example.com,United Kingdom,P009,4,29.9,119.6,1196.0,Cash on Delivery,Delivered,,True,False
+ORD-1372,2026-07-15,C005,Ngozi Garcia,ngozi.garcia5@example.com,South Africa,P009,1,29.9,29.9,29.9,Card,Delivered,,False,False
+ORD-1373,2026-05-07,C051,Grace Brown,,United Kingdom,P007,1,42.0,42.0,42.0,Mobile Wallet,Delivered,,False,False
+ORD-1374,2026-09-08,C047,Emeka Tanaka,emeka.tanaka47@example.com,United Kingdom,P005,2,149.0,298.0,298.0,Cash on Delivery,Cancelled,,False,False
+ORD-1375,2026-03-15,C046,Chloe Mensah,chloe.mensah46@example.com,United States,P003,2,9.99,19.98,19.98,Cash on Delivery,Delivered,,False,False
+ORD-1376,2026-02-16,C020,Chloe Adeyemi,chloe.adeyemi20@example.com,Ghana,P007,3,42.0,126.0,126.0,Card,Delivered,,False,False
+ORD-1377,2026-04-08,C045,Grace Nwosu,grace.nwosu45@example.com,United States,P002,1,79.5,79.5,79.5,Cash on Delivery,Returned,,False,False
+ORD-1378,,C054,Tunde Brown,tunde.brown54@example.com,Nigeria,P003,2,9.99,19.98,19.98,Card,Cancelled,,False,False
+ORD-1379,2026-09-07,C053,Tunde Garcia,tunde.garcia53@example.com,Ghana,P001,4,25.99,103.96,10.4,Cash on Delivery,Delivered,,True,False
+ORD-1380,2026-06-03,C015,Mateo Tanaka,mateo.tanaka15@example.com,United Kingdom,P008,1,59.99,59.99,59.99,Card,Delivered,,False,False
+ORD-1381,,C013,Chloe Garcia,chloe.garcia13@example.com,,P008,5,59.99,299.95,299.95,Bank Transfer,Shipped,,False,False
+ORD-1382,2026-09-03,C039,Amara Smith,amara.smith39@example.com,Kenya,P012,1,14.25,14.25,14.25,Bank Transfer,Shipped,,False,False
+ORD-1383,2026-03-18,C055,Ahmed Rossi,ahmed.rossi55@example.com,Ghana,P010,2,6.5,13.0,13.0,Cash on Delivery,Cancelled,,False,False
+ORD-1384,2026-06-29,C008,Sofia Mensah,sofia.mensah8@example.com,Nigeria,P005,1,149.0,149.0,149.0,,Delivered,,False,False
+ORD-1385,2026-09-28,C024,Ngozi Mensah,ngozi.mensah24@example.com,United States,P012,3,14.25,42.75,42.75,Bank Transfer,Delivered,,False,False
+ORD-1386,2026-04-14,C047,Emeka Tanaka,emeka.tanaka47@example.com,United Kingdom,P008,5,59.99,299.95,299.95,Bank Transfer,Delivered,,False,False
+ORD-1387,2026-05-21,C051,Grace Brown,grace.brown51@example.com,United Kingdom,P005,1,25.99,25.99,25.99,Card,Delivered,,False,False
+ORD-1388,2026-09-20,C045,Grace Nwosu,grace.nwosu45@example.com,United States,P001,4,25.99,103.96,1039.6,Cash on Delivery,Cancelled,,True,False
+ORD-1389,,C053,Tunde Garcia,tunde.garcia53@example.com,Ghana,P004,2,34.0,68.0,68.0,Cash on Delivery,Cancelled,,False,False
+ORD-1390,2026-07-15,C056,Ahmed Garcia,ahmed.garcia56@example.com,Nigeria,P010,1,6.5,6.5,6.5,Bank Transfer,Delivered,,False,False
+ORD-1391,2026-04-03,C012,,liam.bello12@example.com,Kenya,P004,2,34.0,68.0,68.0,Bank Transfer,Delivered,,False,False
+ORD-1392,2026-03-09,C049,Mateo Garcia,mateo.garcia49@example.com,South Africa,P011,4,99.0,396.0,396.0,Card,Returned,,False,False
+ORD-1393,2026-01-11,C018,Ngozi Nwosu,ngozi.nwosu18@example.com,Nigeria,P011,2,99.0,198.0,198.0,Card,Cancelled,,False,False
+ORD-1394,2026-05-25,C011,Liam Ibrahim,liam.ibrahim11@example.com,South Africa,P002,1,79.5,79.5,79.5,Cash on Delivery,Cancelled,,False,False
+ORD-1395,2026-02-09,C024,Ngozi Mensah,ngozi.mensah24@example.com,United States,P005,3,149.0,447.0,514.05,Bank Transfer,Delivered,,True,False
+ORD-1396,2026-06-20,C031,Mateo Khan,mateo.khan31@example.com,Kenya,P099,5,14.25,71.25,71.25,Mobile Wallet,Delivered,,False,True
+ORD-1397,2026-01-31,C031,Mateo Khan,mateo.khan31@example.com,Kenya,P003,4,9.99,39.96,39.96,Cash on Delivery,Delivered,,False,False
+ORD-1398,2026-03-22,C005,Ngozi Garcia,ngozi.garcia5@example.com,South Africa,P008,3,59.99,179.97,179.97,Bank Transfer,Delivered,,False,False
+ORD-1399,2026-03-30,C057,Tunde Khan,tunde.khan57@example.com,South Africa,P011,1,99.0,99.0,99.0,Mobile Wallet,Cancelled,,False,False
+ORD-1400,,C036,Kwame Bello,kwame.bello36@example.com,United States,P003,3,6.5,19.5,19.5,Mobile Wallet,Delivered,,False,False
+ORD-1401,2026-05-04,C013,Chloe Garcia,chloe.garcia13@example.com,South Africa,P011,3,99.0,297.0,396.0,Mobile Wallet,Delivered,,True,False
+ORD-1402,2026-03-18,C033,Zara Smith,zara.smith33@example.com,South Africa,P002,2,79.5,159.0,159.0,Card,Delivered,,False,False
+ORD-1403,,C034,Fatima Adeyemi,fatima.adeyemi34@example.com,United States,P006,1,12.75,12.75,12.75,Card,Shipped,,False,False
+ORD-1404,2026-08-21,C058,Amara Garcia,amara.garcia58@example.com,Nigeria,P002,1,79.5,79.5,79.5,Card,Delivered,,False,False
+ORD-1405,2026-03-08,C055,Ahmed Rossi,ahmed.rossi55@example.com,Ghana,P005,1,149.0,149.0,149.0,,Delivered,,False,False
+ORD-1406,2026-08-25,C026,Mateo Smith,mateo.smith26@example.com,South Africa,P002,1,79.5,79.5,79.5,Mobile Wallet,Delivered,,False,False
+ORD-1407,2026-04-20,C010,Kwame Garcia,kwame.garcia10@example.com,South Africa,P008,1,59.99,59.99,59.99,Card,Shipped,,False,False
+ORD-1408,2026-05-13,C027,Zara Rossi,zara.rossi27@example.com,Kenya,P009,1,29.9,29.9,29.9,Cash on Delivery,Delivered,,False,False
+ORD-1409,2026-03-16,C047,Emeka Tanaka,emeka.tanaka47@example.com,United Kingdom,P011,2,99.0,198.0,198.0,Card,Cancelled,,False,False
+ORD-1410,2026-04-07,C003,Chloe Nwosu,,United Kingdom,P004,2,34.0,68.0,68.0,Mobile Wallet,Delivered,,False,False
+ORD-1411,2026-06-21,C035,Ahmed Garcia,ahmed.garcia35@example.com,Ghana,P007,2,42.0,84.0,84.0,Cash on Delivery,Delivered,,False,False
+ORD-1412,2026-07-30,C042,Tunde Smith,tunde.smith42@example.com,South Africa,P001,2,25.99,51.98,51.98,Mobile Wallet,Delivered,,False,False
+ORD-1413,2026-04-25,C026,Mateo Smith,mateo.smith26@example.com,South Africa,P001,4,25.99,103.96,103.96,Cash on Delivery,Delivered,,False,False
+ORD-1414,2026-07-21,C026,Mateo Smith,mateo.smith26@example.com,South Africa,P004,2,34.0,68.0,68.0,Bank Transfer,Returned,,False,False
+ORD-1415,2026-02-17,C011,Liam Ibrahim,liam.ibrahim11@example.com,South Africa,P006,1,12.75,12.75,12.75,Card,Shipped,,False,False
+ORD-1416,2026-05-21,C025,Emeka Okafor,emeka.okafor25@example.com,South Africa,P005,2,149.0,298.0,298.0,,Delivered,,False,False
+ORD-1417,2026-06-10,C014,Ngozi Rossi,ngozi.rossi14@example.com,,P011,1,99.0,99.0,99.0,Bank Transfer,Delivered,,False,False
+ORD-1418,2026-09-20,C002,Ngozi Khan,ngozi.khan2@example.com,Ghana,P009,1,29.9,29.9,29.9,Card,Delivered,,False,False
+ORD-1419,2026-04-12,C026,Mateo Smith,mateo.smith26@example.com,South Africa,P004,1,34.0,34.0,34.0,Mobile Wallet,Delivered,,False,False
+ORD-1420,2026-08-19,C058,,amara.garcia58@example.com,Nigeria,P005,3,99.0,297.0,297.0,Cash on Delivery,Delivered,,False,False
+ORD-1421,2026-06-14,C014,Ngozi Rossi,ngozi.rossi14@example.com,Kenya,P008,2,59.99,119.98,119.98,Cash on Delivery,Delivered,,False,False
+ORD-1422,2026-05-21,C032,Ngozi Bello,ngozi.bello32@example.com,United States,P008,1,59.99,59.99,59.99,Cash on Delivery,Delivered,,False,False
+ORD-1423,2026-08-01,C005,Ngozi Garcia,ngozi.garcia5@example.com,South Africa,P008,3,59.99,179.97,59.99,,Delivered,,True,False
+ORD-1424,2026-04-26,C021,Yuki Adeyemi,yuki.adeyemi21@example.com,United Kingdom,P012,2,14.25,28.5,28.5,Card,Cancelled,,False,False
+ORD-1425,2026-07-31,C056,Ahmed Garcia,ahmed.garcia56@example.com,Nigeria,P003,3,9.99,29.97,29.97,Bank Transfer,Delivered,,False,False
+ORD-1426,2026-04-21,C032,Ngozi Bello,ngozi.bello32@example.com,United States,P001,1,25.99,25.99,25.99,Card,Delivered,,False,False
+ORD-1427,2026-03-26,C013,Chloe Garcia,chloe.garcia13@example.com,South Africa,P002,,79.5,,91.42,Bank Transfer,Cancelled,invalid (<=0 or >50),False,False
+ORD-1428,2026-07-09,C022,Ahmed Smith,ahmed.smith22@example.com,United Kingdom,P001,1,25.99,25.99,25.99,,Delivered,,False,False
+ORD-1429,2026-07-27,C018,Ngozi Nwosu,ngozi.nwosu18@example.com,Nigeria,P004,4,34.0,136.0,136.0,Mobile Wallet,Delivered,,False,False
+ORD-1430,2026-08-22,C005,Ngozi Garcia,ngozi.garcia5@example.com,South Africa,P003,1,9.99,9.99,1.0,Mobile Wallet,Delivered,,True,False
+ORD-1431,2026-03-27,C054,Tunde Brown,,Nigeria,P004,2,34.0,68.0,68.0,Cash on Delivery,Delivered,,False,False
+ORD-1432,2026-01-11,C018,Ngozi Nwosu,ngozi.nwosu18@example.com,Nigeria,P011,2,99.0,198.0,198.0,Bank Transfer,Delivered,,False,False
+ORD-1433,,C057,Tunde Khan,tunde.khan57@example.com,South Africa,P009,1,29.9,29.9,29.9,Cash on Delivery,Delivered,,False,False
+ORD-1434,2026-03-25,C019,Yuki Okafor,,Nigeria,P010,2,6.5,13.0,1.3,Card,Delivered,,True,False
+ORD-1435,2026-03-15,C010,Kwame Garcia,kwame.garcia10@example.com,South Africa,P002,2,79.5,159.0,159.0,Cash on Delivery,Delivered,,False,False
+ORD-1436,2026-05-09,C009,David Tanaka,david.tanaka9@example.com,South Africa,P011,3,99.0,297.0,297.0,Cash on Delivery,Delivered,,False,False
+ORD-1437,2026-10-14,C027,Zara Rossi,zara.rossi27@example.com,,P008,1,59.99,59.99,59.99,Bank Transfer,Shipped,,False,False
+ORD-1438,2026-02-19,C054,Tunde Brown,tunde.brown54@example.com,Nigeria,P011,1,99.0,99.0,99.0,Card,Shipped,,False,False
+ORD-1439,2026-04-13,C060,Tunde Rossi,tunde.rossi60@example.com,Ghana,P001,,25.99,,779.7,Card,Delivered,invalid (<=0 or >50),False,False
+ORD-1440,2026-03-16,C043,Liam Smith,liam.smith43@example.com,United States,P010,1,6.5,6.5,6.5,Bank Transfer,Delivered,,False,False
+ORD-1441,2026-01-18,C025,Emeka Okafor,emeka.okafor25@example.com,South Africa,P001,,25.99,,51.98,Card,Returned,invalid (<=0 or >50),False,False
+ORD-1442,2026-08-24,C042,Tunde Smith,tunde.smith42@example.com,South Africa,P012,2,14.25,28.5,28.5,Cash on Delivery,Delivered,,False,False
+ORD-1443,2026-03-23,C026,Mateo Smith,mateo.smith26@example.com,South Africa,P002,1,79.5,79.5,79.5,,Shipped,,False,False
+ORD-1444,2026-03-31,C039,Amara Smith,amara.smith39@example.com,Kenya,P011,3,99.0,297.0,297.0,Bank Transfer,Delivered,,False,False
+ORD-1445,2026-07-28,C058,Amara Garcia,amara.garcia58@example.com,Nigeria,P001,1,25.99,25.99,25.99,Bank Transfer,Delivered,,False,False
+ORD-1446,2026-04-29,C020,Chloe Adeyemi,chloe.adeyemi20@example.com,Ghana,P002,1,79.5,79.5,79.5,Bank Transfer,Cancelled,,False,False
+ORD-1447,2026-05-15,C058,Amara Garcia,amara.garcia58@example.com,Nigeria,P002,2,79.5,159.0,159.0,Cash on Delivery,Delivered,,False,False
+ORD-1448,2026-08-02,C003,Chloe Nwosu,chloe.nwosu3@example.com,United Kingdom,P006,5,12.75,63.75,63.75,,Delivered,,False,False
+ORD-1449,2026-10-10,C044,Yuki Bello,yuki.bello44@example.com,Ghana,P011,2,99.0,198.0,198.0,Bank Transfer,Shipped,,False,False
+ORD-1450,2026-01-08,C057,Tunde Khan,tunde.khan57@example.com,South Africa,P009,2,29.9,59.8,59.8,Card,Delivered,,False,False
