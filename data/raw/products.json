@@ -1,0 +1,149 @@
+{
+  "store": "Demo Electronics & Office Supplies (synthetic)",
+  "exported_at": "2026-10-31T23:59:59",
+  "currency": "USD",
+  "products": [
+    {
+      "product_id": "P001",
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": "$25.99",
+      "in_stock": true,
+      "specs": {
+        "weight_g": 1146,
+        "color": "Black"
+      }
+    },
+    {
+      "product_id": "P002",
+      "name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "price": 79.5,
+      "in_stock": 0,
+      "specs": {
+        "weight_g": 2253,
+        "color": "gray"
+      }
+    },
+    {
+      "product_id": "P003",
+      "name": "USB-C Cable 1m",
+      "category": "Accessories",
+      "price": 9.99,
+      "in_stock": true,
+      "specs": {
+        "weight_g": 915,
+        "color": "gray"
+      }
+    },
+    {
+      "product_id": "P004",
+      "name": "Laptop Stand",
+      "category": "Accesories",
+      "price": 34.0,
+      "in_stock": false,
+      "specs": {
+        "weight_g": null,
+        "color": "Black"
+      }
+    },
+    {
+      "product_id": "P005",
+      "name": "Noise-Cancelling Headphones",
+      "category": "ELECTRONICS",
+      "price": "149.0",
+      "in_stock": true,
+      "specs": {
+        "weight_g": "unknown",
+        "color": "grey"
+      }
+    },
+    {
+      "product_id": "P006",
+      "name": "Notebook A5 (pack of 3)",
+      "price": "12.75",
+      "in_stock": false,
+      "specs": {
+        "weight_g": 1398,
+        "color": "black"
+      }
+    },
+    {
+      "product_id": "P007",
+      "name": "Desk Lamp LED",
+      "category": "home-office",
+      "price": 42.0,
+      "in_stock": "yes",
+      "specs": {
+        "weight_g": null,
+        "color": "black"
+      }
+    },
+    {
+      "product_id": "P008",
+      "name": "Webcam 1080p",
+      "category": "Electronics",
+      "price": 59.99,
+      "in_stock": "no",
+      "specs": {
+        "weight_g": "unknown",
+        "color": "white"
+      }
+    },
+    {
+      "product_id": "P009",
+      "name": "Ergonomic Chair Cushion",
+      "category": "HomeOffice",
+      "price": "$29.90",
+      "in_stock": "yes",
+      "specs": {
+        "weight_g": 2384,
+        "color": null
+      }
+    },
+    {
+      "product_id": "P010",
+      "name": "Ballpoint Pens (box of 12)",
+      "category": "Stationery ",
+      "price": null,
+      "in_stock": false,
+      "specs": {
+        "weight_g": 1205,
+        "color": "Black"
+      }
+    },
+    {
+      "product_id": " p011",
+      "name": "External SSD 1TB",
+      "category": "Electronic",
+      "price": "$99.00",
+      "in_stock": "yes",
+      "specs": {
+        "weight_g": "unknown",
+        "color": "white"
+      }
+    },
+    {
+      "product_id": "P012",
+      "name": "Phone Holder",
+      "category": "accessories",
+      "price": 14.25,
+      "in_stock": false,
+      "specs": {
+        "weight_g": "unknown",
+        "color": null
+      }
+    },
+    {
+      "product_id": "P002",
+      "name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "price": 74.99,
+      "in_stock": 0,
+      "specs": {
+        "weight_g": 2253,
+        "color": "gray"
+      }
+    }
+  ]
+}

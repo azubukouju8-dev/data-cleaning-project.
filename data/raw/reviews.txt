@@ -1,0 +1,206 @@
+# Customer reviews export (synthetic)
+# format: date | order_id | rating | comment
+
+08-15-2026 | ORD-1233 | ★ |    WASTE OF MONEY   
+08-15-2026 | ORD-1233 | ★ |    WASTE OF MONEY   
+2026-05-21 - ORD-1140 - three - It's okay.
+ERROR: export timeout, retrying...
+2026-04-22 | ord-1080 | ★★★★ | Nice, but delivery took long.
+2026-06-04 ; ORD-1195 ; ★★★★★ ; Great value for money.
+2026-08-31 | ORD-1329 | five | Great value for money.
+08-03-2026 | ORD-1012 | four | Works well, slightly overpriced.
+2026-08-23 | ORD-1179 | 5 stars | Excellent quality, arrived early!
+ERROR: export timeout, retrying...
+07-19-2026 | ORD-1293 | ★★★★★ | Excellent quality, arrived early!
+2026-06-03 | ORD-1313 | 3 stars | It's okay.
+2026-03-27 | ORD-1223 | 4/5 | Good product, packaging was a bit damaged.
+2026-02-12 | ORD-1438 | 10/10 |    LOVE IT. WORKS PERFECTLY.   
+2026-09-25 | ORD-1377 | 5/5 | Great value for money.
+2026-10-06 | ORD-1103 | one | Waste of money
+
+2026-10-21 | ORD-1082 | 4/5 | Good product, packaging was a bit damaged.
+2026-10-23 - ORD-1095 - four - Works well, slightly overpriced.
+2026-09-13 | ORD-1057 | 3 | Average quality, does the job.
+2026-03-12 | ORD-1007 | 5 stars |    EXCELLENT QUALITY, ARRIVED EARLY!   
+2026-08-08 | ORD-1437 | 2 | Colour was different from the picture.
+2026-07-15 | ORD-1419 | 3 | Not bad, not great.
+2026-03-23 |  | 4 stars | Good product, packaging was a bit damaged.
+2026-05-01 | ord-1334 | 4 | Works well, slightly overpriced.
+2026-04-19 | ORD-1209 | 4 | Good product, packaging was a bit damaged.
+2026-09-05 | ORD-1349 | ★★★★ | Good product, packaging was a bit damaged.
+2026-09-04 | ORD-1215 | ★★★★ | Works well, slightly overpriced.
+2026-04-01 | ORD-1022 | two | Colour was different from the picture.
+2026-07-12 | ORD-1131 | five | Love it. Works perfectly.
+2026-02-23 | ORD-1434 | 5/5 | Excellent quality, arrived early!
+2026-10-25 | ORD-1087 | ★★★★ | Works well, slightly overpriced.
+2026-03-25 | ORD-1428 | 5/5 |    EXCELLENT QUALITY, ARRIVED EARLY!   
+2026-01-14 | ORD-1196 | 5 stars | Best purchase this year 🙌
+2026-09-19 | ORD-1098 | ★★★★★ | Great value for money.
+
+2026-09-01 ; ORD-1334 ; five ; Excellent quality, arrived early!
+2026-07-16 | ORD-1401 | 5 | Love it. Works perfectly.
+2026-06-16 | ORD-1224 | 5 stars | Best purchase this year 🙌
+2026-08-24 | ORD-1370 | ★★★★ | Nice, but delivery took long.
+2026-09-20 | ORD-1220 | ★★★★★ | Best purchase this year 🙌
+2026-11-02 | ORD-1362 | 5/5 | Excellent quality, arrived early!
+2026-11-02 | ORD-1362 | 5/5 | Excellent quality, arrived early!
+2026-04-11 | ORD-1161 | 1 stars | Broken on arrival!!!
+2026-07-16 | ORD-1221 | 5/5 | Love it. Works perfectly.
+2026-01-20 ; ORD-1314 ; ★★★★ ; Nice, but delivery took long.
+2026-07-02||3 stars|It's okay.
+2026-07-16 | ORD-1193 | three | Average quality, does the job.
+2026-03-15 | ORD-1315 | five | Excellent quality, arrived early!
+
+2026-07-13||★★★|It's okay.
+2026-07-13||★★★|It's okay.
+2026-08-11 | ORD-1320 | 3 | Average quality, does the job.
+2026-02-26 | ORD-1206 | 3 stars | Not bad, not great.
+2026-02-26 | ORD-1206 | 3 stars | Not bad, not great.
+2026-06-10 | ORD-1060 | three | Average quality, does the job.
+2026-07-21 |  | ★★★★ | Nice, but delivery took long.
+2026-08-29 ; ORD-1102 ; 2 ; Colour was different from the picture.
+ERROR: export timeout, retrying...
+2026-01-24|ORD-1004|five|Excellent quality, arrived early!
+2026-05-10 | ORD-1156 | ★★★ |    IT'S OKAY.   
+2026-09-25 | ORD-1018 | 5 | Excellent quality, arrived early!
+2026-03-06 - ORD-1191 - ★★★★ - Good product, packaging was a bit damaged.
+04-11-2026 | ORD-1240 | 3 | Average quality, does the job.
+2026-06-17 | ORD-1219 | ★ | Waste of money
+2026-01-12 | ORD-1362 | 1 stars | Waste of money
+2026-02-15 | ORD-1210 | 2 stars | Colour was different from the picture.
+2026-07-05 | ORD-1283 | 5 | Great value for money.
+2026-04-27 | ORD-1153 | five | Best purchase this year 🙌
+2026-06-17 | ORD-1061 | three | Average quality, does the job.
+2026-06-26 | ORD-1230 | 4/5 | Nice, but delivery took long.
+
+2026-02-16 | ORD-1330 | 4 | Good product, packaging was a bit damaged.
+2026-07-24|ORD-1429|3 stars|Not bad, not great.
+29/08/2026 | ORD-1265 | four | Good product, packaging was a bit damaged.
+2026-01-09 | ORD-1293 | ★ |    BROKEN ON ARRIVAL!!!   
+2026-10-06 | ORD-1144 | 4/5 | Works well, slightly overpriced.
+2026-10-06 | ORD-1144 | 4/5 | Works well, slightly overpriced.
+2026-08-13 | ORD-1117 | ★★★★ | Good product, packaging was a bit damaged.
+2026-02-24 | ORD-1394 | five | Best purchase this year 🙌
+2026-03-18 ; ORD-1087 ; 4 ; Works well, slightly overpriced.
+2026-03-12 ; ORD-1122 ; 2/5 ; Colour was different from the picture.
+2026-04-03 | ORD-1290 | ★★★★ | Works well, slightly overpriced.
+2026-01-13 | ORD-1394 | 2 stars | Colour was different from the picture.
+2026-01-12 | ORD-1360 | ★ | Waste of money
+2026-10-06 | ORD-1080 | 5/5 | Love it. Works perfectly.
+2026/08/27 00:00 ; ORD-1001 ; 3 stars ; It's okay.
+2026-02-25 | ORD-1399 | 4/5 | Good product, packaging was a bit damaged.
+2026-10-30 | ORD-1345 | four | Good product, packaging was a bit damaged.
+2026-09-15 | ORD-1242 | 4 | Works well, slightly overpriced.
+2026-04-09 | ORD-1076 | four |    GOOD PRODUCT, PACKAGING WAS A BIT DAMAGED.   
+2026-04-09 | ORD-1361 | 3 | Not bad, not great.
+2026-07-27 | ORD-1043 | 5 stars | Great value for money.
+2026-06-10 | ORD-1255 | 1 | Broken on arrival!!!
+2026-06-10 | ORD-1255 | 1 | Broken on arrival!!!
+2026-03-18 |  | 4 stars | Nice, but delivery took long.
+2026-03-18 |  | 4 stars | Nice, but delivery took long.
+2026-04-18 | ORD-1037 | 4 | Good product, packaging was a bit damaged.
+2026-07-24 ; ORD-1355 ; 3 ; Not bad, not great.
+2026-02-12 | ORD-1377 | 4 stars | Nice, but delivery took long.
+2026-10-04 | ORD-1210 | 5/5 | Best purchase this year 🙌
+2026-08-29	ORD-1420	4	Nice, but delivery took long.
+2026-09-25 | ORD-1027 | ★★★★ | Works well, slightly overpriced.
+2026-10-18 | ORD-1105 | 5/5 | Great value for money.
+2026-03-24 | ORD-1354 | 4 | Nice, but delivery took long.
+2026-01-15 | ORD-1317 | ★★ | Colour was different from the picture.
+10-28-2026 | ORD-1392 | 2/5 | Stopped working after two weeks.
+2026-04-19 | ORD-1232 | 3 stars | It's okay.
+2026-04-22 - ORD-1069 - 2 stars -    STOPPED WORKING AFTER TWO WEEKS.   
+2026-07-08 | ORD-1110 | 1/5 | Broken on arrival!!!
+
+2026-02-26 | ORD-1308 | four | Nice, but delivery took long.
+2026-05-26	ORD-1255	5 stars	Excellent quality, arrived early!
+2026-06-05 | ORD-1031 | 3 stars | Not bad, not great.
+2026-01-21 | ORD-1377 | 3 | It's okay.
+
+2026-10-09 | ORD-1191 | 4 stars | Works well, slightly overpriced.
+19/08/2026 | ORD-1254 | two | Colour was different from the picture.
+2026-10-25 | ORD-1188 | 4 stars |    NICE, BUT DELIVERY TOOK LONG.   
+2026-06-09	ORD-1445	★★★	Average quality, does the job.
+2026-07-22	ORD-1440	5/5	Excellent quality, arrived early!
+2026-10-28 | ORD-1272 | 5 | Excellent quality, arrived early!
+2026-09-12 | ORD-1344 | 5 |    BEST PURCHASE THIS YEAR 🙌   
+03-03-2026 | ORD-1001 | one | Terrible. Never arrived on time and support ignored me.
+2026-04-29 | ORD-1177 | ★★★★★ | Love it. Works perfectly.
+2026-04-29 | ORD-1177 | ★★★★★ | Love it. Works perfectly.
+2026-10-04 | ORD-1292 | ★ | Waste of money
+2026-09-30 | ORD-1021 | 5 stars |    BEST PURCHASE THIS YEAR 🙌   
+2026-02-09 | ORD-1260 | 4 stars | Good product, packaging was a bit damaged.
+07-30-2026 | ORD-1354 | five | Best purchase this year 🙌
+2026-08-18 | ORD-1032 | 4/5 | Nice, but delivery took long.
+2026-08-12 - ORD-1198 - four - Good product, packaging was a bit damaged.
+2026-08-15 | ORD-1440 | 3 | Not bad, not great.
+2026-02-26 | ORD-1067 | 5 stars | Best purchase this year 🙌
+2026-07-20 - ORD-1146 - 4/5 - Good product, packaging was a bit damaged.
+2026-01-26 | ORD-1325 | ★★★ | It's okay.
+08 Apr 2026 | ORD-1097 | 5/5 | Best purchase this year 🙌
+2026-08-28 | ORD-1377 | 5 stars | Best purchase this year 🙌
+2026-10-08 | ORD-1249 | 5 | Excellent quality, arrived early!
+2026-09-11 ; ORD-1373 ; 2 stars ;    COLOUR WAS DIFFERENT FROM THE PICTURE.   
+2026-04-07 | ORD-1291 | 4/5 | Nice, but delivery took long.
+2026-06-05 ; ORD-1380 ; 4 stars ; Good product, packaging was a bit damaged.
+2026-06-05 ; ORD-1380 ; 4 stars ; Good product, packaging was a bit damaged.
+2026-05-01 | ORD-1140 | 5 | Excellent quality, arrived early!
+2026-09-28 | ORD-1039 | four | Nice, but delivery took long.
+07-07-2026 | ORD-1324 | 5 stars |    LOVE IT. WORKS PERFECTLY.   
+2026-05-02 | ORD-1236 | ★★ | Stopped working after two weeks.
+2026-04-03 | ORD-1321 | five |    LOVE IT. WORKS PERFECTLY.   
+2026-09-14 | ORD-1226 | three | Average quality, does the job.
+2026-03-20 | ORD-1412 | 1/5 | Terrible. Never arrived on time and support ignored me.
+2026-03-29 | ORD-1189 | 4 stars | Good product, packaging was a bit damaged.
+2026-07-23 | ORD-1058 | 3 | Average quality, does the job.
+2026-07-04 - ORD-1021 - 5/5 - Excellent quality, arrived early!
+2026-06-22 - ord-1301 - ★★★★★ - Excellent quality, arrived early!
+2026-03-26 - ORD-1411 - 2 stars -    COLOUR WAS DIFFERENT FROM THE PICTURE.   
+2026-03-02 | ORD-1407 | 1/5 | Waste of money
+2026-08-23 | ORD-1027 | 4 stars | Good product, packaging was a bit damaged.
+2026-02-25 | ORD-1380 | ★★★★ | Nice, but delivery took long.
+2026-06-04 | ORD-1113 | 3/5 | Average quality, does the job.
+2026-02-03 | ord-1348 | 5 | Love it. Works perfectly.
+October 08, 2026 | ORD-1375 | ★★★★ | Nice, but delivery took long.
+2026-06-18 | ORD-1233 | 5/5 | Great value for money.
+
+2026-06-24|ORD-1387|1|   BROKEN ON ARRIVAL!!!   
+June 13, 2026 | ORD-1009 | 4/5 | Works well, slightly overpriced.
+07-27-2026 | ORD-1356 | 4/5 | Good product, packaging was a bit damaged.
+2026-07-28 | ORD-1008 | 5/5 | Love it. Works perfectly.
+March 04, 2026 | ORD-1307 | 4/5 | Nice, but delivery took long.
+2026-04-12 | ORD-1269 | 3/5 | Average quality, does the job.
+2026-03-25 | ORD-1289 | 4 stars | Nice, but delivery took long.
+2026-10-13 ; ORD-1037 ; five ; Excellent quality, arrived early!
+2026-01-07	ORD-1440	5/5	Excellent quality, arrived early!
+2026-05-07 | ORD-1368 | four | Good product, packaging was a bit damaged.
+2026-03-29 | ord-1124 | 1 stars | Broken on arrival!!!
+2026-08-01 | ORD-1088 | five | Great value for money.
+October 24, 2026 | ORD-1385 | three | Average quality, does the job.
+2026-08-05 | ORD-1415 | five | Great value for money.
+2026-10-21 | ORD-1253 | 1 stars | Broken on arrival!!!
+2026-01-24 ; ORD-1218 ; 4/5 ; Good product, packaging was a bit damaged.
+2026-06-16|ORD-1195|5 stars|Excellent quality, arrived early!
+2026-10-15 | ORD-1114 | 5 stars | Love it. Works perfectly.
+2026-11-02 | ORD-1270 | ★★★ | Average quality, does the job.
+10/02/2026 | ORD-1104 | 2/5 | Stopped working after two weeks.
+September 16, 2026 | ORD-1398 | 1 | Broken on arrival!!!
+September 16, 2026 | ORD-1398 | 1 | Broken on arrival!!!
+2026/06/11 00:00 - ORD-1283 - five - Best purchase this year 🙌
+2026/06/11 00:00 - ORD-1283 - five - Best purchase this year 🙌
+2026-07-19 | ORD-1280 | one | Waste of money
+2026-04-14 | ORD-1203 | 5/5 | Best purchase this year 🙌
+2026-04-14 | ORD-1203 | 5/5 | Best purchase this year 🙌
+16/07/2026 | ORD-1250 |  | Best purchase this year 🙌
+2026-06-24 | ORD-1268 | 4 stars | Nice, but delivery took long.
+2026-06-24 | ORD-1268 | 4 stars | Nice, but delivery took long.
+2026-07-23 ; ORD-1352 ; 3 stars ; Average quality, does the job.
+2026/01/09 00:00|ORD-1050|★★★★★|Excellent quality, arrived early!
+2026-06-06 | ORD-1130 | four | Works well, slightly overpriced.
+2026-02-06 | ORD-1266 | five |    GREAT VALUE FOR MONEY.   
+2026-02-08 | ORD-1171 | 3 | Average quality, does the job.
+2026-01-27 | ORD-1001 | 4 | Works well, slightly overpriced.
+2026-03-18 | ORD-1081 | 1 stars | Terrible. Never arrived on time and support ignored me.
+2026-07-25 | ORD-1385 | five | Best purchase this year 🙌
+2026-03-28 | ORD-1336 | 4/5 | Works well, slightly overpriced.
+2026-01-12 | ORD-1296 | 4 | Works well, slightly overpriced.
